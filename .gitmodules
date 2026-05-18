@@ -1,0 +1,6 @@
+[submodule "claude-code-docs"]
+	path = claude-code-docs
+	url = https://github.com/stavarengo/claude-code-docs
+[submodule "gemini-cli"]
+	path = gemini-cli
+	url = https://github.com/google-gemini/gemini-cli

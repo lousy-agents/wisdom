@@ -1,0 +1,66 @@
+# Hidden dirs not relevant for docs
+.agents
+.gemini
+
+# Root-level config/metadata files (lock files already auto-skipped by graphify)
+package.json
+skills-lock.json
+GEMINI.md
+.gitmodules
+
+# claude-code-docs: only keep content/docs/claude/
+claude-code-docs/.github
+claude-code-docs/README.md
+claude-code-docs/content/docs/openai
+
+# gemini-cli: only keep docs/cli/ ─────────────────────────────────────────────
+# Source/test/tool directories
+gemini-cli/.gemini
+gemini-cli/.husky
+gemini-cli/evals
+gemini-cli/integration-tests
+gemini-cli/memory-tests
+gemini-cli/packages
+gemini-cli/perf-tests
+gemini-cli/schemas
+gemini-cli/scripts
+gemini-cli/sea
+gemini-cli/third_party
+gemini-cli/tools
+# Root-level files
+gemini-cli/CONTRIBUTING.md
+gemini-cli/Dockerfile
+gemini-cli/esbuild.config.js
+gemini-cli/eslint.config.js
+gemini-cli/GEMINI.md
+gemini-cli/LICENSE
+gemini-cli/Makefile
+gemini-cli/package.json
+gemini-cli/README.md
+gemini-cli/ROADMAP.md
+gemini-cli/SECURITY.md
+gemini-cli/tsconfig.json
+# Docs dirs other than cli/
+gemini-cli/docs/admin
+gemini-cli/docs/assets
+gemini-cli/docs/changelogs
+gemini-cli/docs/CONTRIBUTING.md
+gemini-cli/docs/core
+gemini-cli/docs/examples
+gemini-cli/docs/extensions
+gemini-cli/docs/get-started
+gemini-cli/docs/hooks
+gemini-cli/docs/ide-integration
+gemini-cli/docs/index.md
+gemini-cli/docs/integration-tests.md
+gemini-cli/docs/issue-and-pr-automation.md
+gemini-cli/docs/local-development.md
+gemini-cli/docs/mermaid
+gemini-cli/docs/npm.md
+gemini-cli/docs/redirects.json
+gemini-cli/docs/reference
+gemini-cli/docs/release-confidence.md
+gemini-cli/docs/releases.md
+gemini-cli/docs/resources
+gemini-cli/docs/sidebar.json
+gemini-cli/docs/tools
