@@ -7,6 +7,12 @@
       "skillPath": "skills/agent-browser/SKILL.md",
       "computedHash": "228f87d57035100d9dc6efcfc05aafd4b6e3962adacaa04b8217ab2fadb15dc8"
     },
+    "graphify": {
+      "source": "safishamsi/graphify",
+      "sourceType": "github",
+      "skillPath": "graphify/SKILL.md",
+      "computedHash": "d3f654989d34daf81db94b97c642d340f4ead1c038b5fbc96b4658add4a816f1"
+    },
     "triaging-pr-reviews": {
       "source": "lousy-agents/skills",
       "sourceType": "github",
