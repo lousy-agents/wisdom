@@ -238,7 +238,7 @@ Best systems:
 
 ## References
 
-* aruniyer.github.io — agents-md instruction files
-* deployhq.com — AI coding config files guide
-* developers.openai.com — Codex AGENTS.md guide
-* aihero.dev — a complete guide to AGENTS.md
+* [Instruction Files for AI Coding Assistants: An Overview](https://aruniyer.github.io/blog/agents-md-instruction-files.html) — aruniyer.github.io
+* [CLAUDE.md, AGENTS.md & Copilot Instructions: Configure Every AI Coding Assistant](https://www.deployhq.com/blog/ai-coding-config-files-guide) — deployhq.com
+* [Codex AGENTS.md Guide](https://developers.openai.com/codex/guides/agents-md) — developers.openai.com
+* [A Complete Guide To AGENTS.md](https://www.aihero.dev/a-complete-guide-to-agents-md) — aihero.dev

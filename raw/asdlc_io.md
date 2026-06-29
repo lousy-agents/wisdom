@@ -3,7 +3,7 @@ source_url: "https://asdlc.io/"
 type: webpage
 title: "ASDLC.io | The Agentic Software Development Life Cycle Framework"
 captured_at: 2026-06-28T21:09:50.872385+00:00
-contributor: "unknown"
+contributor: "zpratt"
 ---
 
 # ASDLC.io | The Agentic Software Development Life Cycle Framework
