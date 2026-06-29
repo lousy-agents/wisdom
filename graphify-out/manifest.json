@@ -1,32 +1,37 @@
 {
-  "/Users/zpratt/Developer/wisdom/raw/asdlc_io.md": {
-    "mtime": 1782680990.8726363,
-    "ast_hash": "9473a7b29f675c6739c3a9644c685bf5",
-    "semantic_hash": "9473a7b29f675c6739c3a9644c685bf5"
+  "addyosmani_com_blog_agent-skills.md": {
+    "mtime": 1782738315.7579663,
+    "ast_hash": "a4e76caa96adae20b62fc914237bc75b",
+    "semantic_hash": "a4e76caa96adae20b62fc914237bc75b"
   },
-  "/Users/zpratt/Developer/wisdom/raw/agentic-coding-harness-instructions.md": {
-    "mtime": 1782681865.9373593,
-    "ast_hash": "ee94d5dd6d78899d31026da7e01e899c",
-    "semantic_hash": "ee94d5dd6d78899d31026da7e01e899c"
+  "agentic-coding-harness-instructions.md": {
+    "mtime": 1782738315.7591734,
+    "ast_hash": "ff603e944e2a13dfe931b1611835e8fa",
+    "semantic_hash": "ff603e944e2a13dfe931b1611835e8fa"
   },
-  "/Users/zpratt/Developer/wisdom/raw/harness-engineering.md": {
-    "mtime": 1782661105.5649812,
+  "asdlc_io.md": {
+    "mtime": 1782738315.7591734,
+    "ast_hash": "7257226cd47ff0b94084b239be4fc94a",
+    "semantic_hash": "7257226cd47ff0b94084b239be4fc94a"
+  },
+  "harness-engineering.html": {
+    "mtime": 1782738315.7591734,
+    "ast_hash": "c8b6b838db14ca8d436d1a83f15142cb",
+    "semantic_hash": "c8b6b838db14ca8d436d1a83f15142cb"
+  },
+  "harness-engineering.md": {
+    "mtime": 1782738315.7591734,
     "ast_hash": "5cc97fcc9e395536ef16a1594cd7067a",
     "semantic_hash": "5cc97fcc9e395536ef16a1594cd7067a"
   },
-  "/Users/zpratt/Developer/wisdom/raw/addyosmani_com_blog_agent-skills.md": {
-    "mtime": 1782732914.8708913,
-    "ast_hash": "a4e76caa96adae20b62fc914237bc75b",
-    "semantic_hash": ""
-  },
-  "/Users/zpratt/Developer/wisdom/raw/www_anthropic_com_engineering_effective-harnesses-for-long-running-agents.md": {
-    "mtime": 1782661105.5650635,
+  "www_anthropic_com_engineering_effective-harnesses-for-long-running-agents.md": {
+    "mtime": 1782738315.7591734,
     "ast_hash": "52a9e2b658d21d79516ce1afb98c75a9",
     "semantic_hash": "52a9e2b658d21d79516ce1afb98c75a9"
   },
-  "/Users/zpratt/Developer/wisdom/raw/harness-engineering.html": {
-    "mtime": 1782661105.5649204,
-    "ast_hash": "c8b6b838db14ca8d436d1a83f15142cb",
-    "semantic_hash": "c8b6b838db14ca8d436d1a83f15142cb"
+  "www_oreilly_com_radar_the-sens-ai-framework.md": {
+    "mtime": 1782738719.5405562,
+    "ast_hash": "8bdf5578cb103f92f7d2d61b849ac4a8",
+    "semantic_hash": "8bdf5578cb103f92f7d2d61b849ac4a8"
   }
 }
