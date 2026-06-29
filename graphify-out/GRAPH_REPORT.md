@@ -1,13 +1,18 @@
-# Graph Report - ./raw  (2026-06-28)
+# Graph Report - wisdom  (2026-06-29)
 
 ## Corpus Check
-- 4 files · ~99,999 words
+- 5 files · ~6,518 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 31160 nodes · 33884 edges · 2062 communities (1942 shown, 120 thin omitted)
+- 31198 nodes · 33919 edges · 2037 communities (1903 shown, 134 thin omitted)
 - Extraction: 98% EXTRACTED · 2% INFERRED · 0% AMBIGUOUS · INFERRED: 537 edges (avg confidence: 0.83)
 - Token cost: 0 input · 0 output
+
+## Graph Freshness
+- Built from commit: `9b219a4f`
+- Run `git rev-parse HEAD` and compare to check if the graph is stale.
+- Run `graphify update .` after code changes (no API cost).
 
 ## Community Hubs (Navigation)
 - [[_COMMUNITY_Community 0|Community 0]]
@@ -142,7 +147,7 @@
 - [[_COMMUNITY_Community 129|Community 129]]
 - [[_COMMUNITY_Community 130|Community 130]]
 - [[_COMMUNITY_Community 131|Community 131]]
-- [[_COMMUNITY_Agent Skills API Quickstart|Agent Skills API Quickstart]]
+- [[_COMMUNITY_Community 132|Community 132]]
 - [[_COMMUNITY_Community 133|Community 133]]
 - [[_COMMUNITY_Community 134|Community 134]]
 - [[_COMMUNITY_Community 135|Community 135]]
@@ -206,7 +211,7 @@
 - [[_COMMUNITY_Community 193|Community 193]]
 - [[_COMMUNITY_Community 194|Community 194]]
 - [[_COMMUNITY_Community 195|Community 195]]
-- [[_COMMUNITY_Skills Architecture & Loading Levels|Skills Architecture & Loading Levels]]
+- [[_COMMUNITY_Community 196|Community 196]]
 - [[_COMMUNITY_Community 197|Community 197]]
 - [[_COMMUNITY_Community 198|Community 198]]
 - [[_COMMUNITY_Community 199|Community 199]]
@@ -291,7 +296,7 @@
 - [[_COMMUNITY_Community 278|Community 278]]
 - [[_COMMUNITY_Community 279|Community 279]]
 - [[_COMMUNITY_Community 280|Community 280]]
-- [[_COMMUNITY_Agent Harness Initialization|Agent Harness Initialization]]
+- [[_COMMUNITY_Community 281|Community 281]]
 - [[_COMMUNITY_Community 282|Community 282]]
 - [[_COMMUNITY_Community 283|Community 283]]
 - [[_COMMUNITY_Community 284|Community 284]]
@@ -408,7 +413,7 @@
 - [[_COMMUNITY_Community 395|Community 395]]
 - [[_COMMUNITY_Community 396|Community 396]]
 - [[_COMMUNITY_Community 397|Community 397]]
-- [[_COMMUNITY_Skill Packaging & Visual Analysis|Skill Packaging & Visual Analysis]]
+- [[_COMMUNITY_Community 398|Community 398]]
 - [[_COMMUNITY_Community 399|Community 399]]
 - [[_COMMUNITY_Community 400|Community 400]]
 - [[_COMMUNITY_Community 401|Community 401]]
@@ -471,8 +476,8 @@
 - [[_COMMUNITY_Community 458|Community 458]]
 - [[_COMMUNITY_Community 459|Community 459]]
 - [[_COMMUNITY_Community 460|Community 460]]
-- [[_COMMUNITY_Claude API Skill|Claude API Skill]]
-- [[_COMMUNITY_Enterprise Skill Governance|Enterprise Skill Governance]]
+- [[_COMMUNITY_Community 461|Community 461]]
+- [[_COMMUNITY_Community 462|Community 462]]
 - [[_COMMUNITY_Community 463|Community 463]]
 - [[_COMMUNITY_Community 464|Community 464]]
 - [[_COMMUNITY_Community 465|Community 465]]
@@ -558,7 +563,7 @@
 - [[_COMMUNITY_Community 545|Community 545]]
 - [[_COMMUNITY_Community 546|Community 546]]
 - [[_COMMUNITY_Community 547|Community 547]]
-- [[_COMMUNITY_Effective Harnesses (Long-Running Agents)|Effective Harnesses (Long-Running Agents)]]
+- [[_COMMUNITY_Community 548|Community 548]]
 - [[_COMMUNITY_Community 549|Community 549]]
 - [[_COMMUNITY_Community 550|Community 550]]
 - [[_COMMUNITY_Community 551|Community 551]]
@@ -638,7 +643,7 @@
 - [[_COMMUNITY_Community 625|Community 625]]
 - [[_COMMUNITY_Community 626|Community 626]]
 - [[_COMMUNITY_Community 627|Community 627]]
-- [[_COMMUNITY_Agent Skills Overview|Agent Skills Overview]]
+- [[_COMMUNITY_Community 628|Community 628]]
 - [[_COMMUNITY_Community 629|Community 629]]
 - [[_COMMUNITY_Community 630|Community 630]]
 - [[_COMMUNITY_Community 631|Community 631]]
@@ -653,7 +658,7 @@
 - [[_COMMUNITY_Community 640|Community 640]]
 - [[_COMMUNITY_Community 641|Community 641]]
 - [[_COMMUNITY_Community 642|Community 642]]
-- [[_COMMUNITY_Managing Agent Skills|Managing Agent Skills]]
+- [[_COMMUNITY_Community 643|Community 643]]
 - [[_COMMUNITY_Community 644|Community 644]]
 - [[_COMMUNITY_Community 645|Community 645]]
 - [[_COMMUNITY_Community 646|Community 646]]
@@ -696,8 +701,8 @@
 - [[_COMMUNITY_Community 683|Community 683]]
 - [[_COMMUNITY_Community 684|Community 684]]
 - [[_COMMUNITY_Community 685|Community 685]]
-- [[_COMMUNITY_Agent Skills (Addy Osmani)|Agent Skills (Addy Osmani)]]
-- [[_COMMUNITY_Harness Engineering (Codex)|Harness Engineering (Codex)]]
+- [[_COMMUNITY_Community 686|Community 686]]
+- [[_COMMUNITY_Community 687|Community 687]]
 - [[_COMMUNITY_Community 688|Community 688]]
 - [[_COMMUNITY_Community 689|Community 689]]
 - [[_COMMUNITY_Community 690|Community 690]]
@@ -741,7 +746,7 @@
 - [[_COMMUNITY_Community 728|Community 728]]
 - [[_COMMUNITY_Community 729|Community 729]]
 - [[_COMMUNITY_Community 730|Community 730]]
-- [[_COMMUNITY_Skill Structure & Naming|Skill Structure & Naming]]
+- [[_COMMUNITY_Community 731|Community 731]]
 - [[_COMMUNITY_Community 732|Community 732]]
 - [[_COMMUNITY_Community 733|Community 733]]
 - [[_COMMUNITY_Community 734|Community 734]]
@@ -770,7 +775,7 @@
 - [[_COMMUNITY_Community 757|Community 757]]
 - [[_COMMUNITY_Community 758|Community 758]]
 - [[_COMMUNITY_Community 759|Community 759]]
-- [[_COMMUNITY_Skill Evaluation & Iteration|Skill Evaluation & Iteration]]
+- [[_COMMUNITY_Community 760|Community 760]]
 - [[_COMMUNITY_Community 761|Community 761]]
 - [[_COMMUNITY_Community 762|Community 762]]
 - [[_COMMUNITY_Community 763|Community 763]]
@@ -787,7 +792,7 @@
 - [[_COMMUNITY_Community 774|Community 774]]
 - [[_COMMUNITY_Community 775|Community 775]]
 - [[_COMMUNITY_Community 776|Community 776]]
-- [[_COMMUNITY_Managing Agent Skills (Gemini CLI)|Managing Agent Skills (Gemini CLI)]]
+- [[_COMMUNITY_Community 777|Community 777]]
 - [[_COMMUNITY_Community 778|Community 778]]
 - [[_COMMUNITY_Community 779|Community 779]]
 - [[_COMMUNITY_Community 780|Community 780]]
@@ -815,8 +820,8 @@
 - [[_COMMUNITY_Community 802|Community 802]]
 - [[_COMMUNITY_Community 803|Community 803]]
 - [[_COMMUNITY_Community 804|Community 804]]
-- [[_COMMUNITY_Progressive Disclosure Patterns|Progressive Disclosure Patterns]]
-- [[_COMMUNITY_Skill Authoring Core Principles|Skill Authoring Core Principles]]
+- [[_COMMUNITY_Community 805|Community 805]]
+- [[_COMMUNITY_Community 806|Community 806]]
 - [[_COMMUNITY_Community 807|Community 807]]
 - [[_COMMUNITY_Community 808|Community 808]]
 - [[_COMMUNITY_Community 809|Community 809]]
@@ -953,7 +958,7 @@
 - [[_COMMUNITY_Community 940|Community 940]]
 - [[_COMMUNITY_Community 941|Community 941]]
 - [[_COMMUNITY_Community 942|Community 942]]
-- [[_COMMUNITY_Skills with Executable Code|Skills with Executable Code]]
+- [[_COMMUNITY_Community 943|Community 943]]
 - [[_COMMUNITY_Community 944|Community 944]]
 - [[_COMMUNITY_Community 945|Community 945]]
 - [[_COMMUNITY_Community 946|Community 946]]
@@ -1011,7 +1016,7 @@
 - [[_COMMUNITY_Community 998|Community 998]]
 - [[_COMMUNITY_Community 999|Community 999]]
 - [[_COMMUNITY_Community 1000|Community 1000]]
-- [[_COMMUNITY_Agent Skills SDLC|Agent Skills SDLC]]
+- [[_COMMUNITY_Community 1001|Community 1001]]
 - [[_COMMUNITY_Community 1002|Community 1002]]
 - [[_COMMUNITY_Community 1003|Community 1003]]
 - [[_COMMUNITY_Community 1004|Community 1004]]
@@ -1077,9 +1082,9 @@
 - [[_COMMUNITY_Community 1064|Community 1064]]
 - [[_COMMUNITY_Community 1065|Community 1065]]
 - [[_COMMUNITY_Community 1066|Community 1066]]
-- [[_COMMUNITY_Skill Authoring Best Practices|Skill Authoring Best Practices]]
-- [[_COMMUNITY_Skill Pattern Recommendations|Skill Pattern Recommendations]]
-- [[_COMMUNITY_Workflows & Feedback Loops|Workflows & Feedback Loops]]
+- [[_COMMUNITY_Community 1067|Community 1067]]
+- [[_COMMUNITY_Community 1068|Community 1068]]
+- [[_COMMUNITY_Community 1069|Community 1069]]
 - [[_COMMUNITY_Community 1070|Community 1070]]
 - [[_COMMUNITY_Community 1071|Community 1071]]
 - [[_COMMUNITY_Community 1072|Community 1072]]
@@ -1212,7 +1217,7 @@
 - [[_COMMUNITY_Community 1199|Community 1199]]
 - [[_COMMUNITY_Community 1200|Community 1200]]
 - [[_COMMUNITY_Community 1201|Community 1201]]
-- [[_COMMUNITY_Agent Observability|Agent Observability]]
+- [[_COMMUNITY_Community 1202|Community 1202]]
 - [[_COMMUNITY_Community 1203|Community 1203]]
 - [[_COMMUNITY_Community 1204|Community 1204]]
 - [[_COMMUNITY_Community 1205|Community 1205]]
@@ -1245,7 +1250,7 @@
 - [[_COMMUNITY_Community 1232|Community 1232]]
 - [[_COMMUNITY_Community 1233|Community 1233]]
 - [[_COMMUNITY_Community 1234|Community 1234]]
-- [[_COMMUNITY_Skill Best Practices Doc|Skill Best Practices Doc]]
+- [[_COMMUNITY_Community 1235|Community 1235]]
 - [[_COMMUNITY_Community 1236|Community 1236]]
 - [[_COMMUNITY_Community 1237|Community 1237]]
 - [[_COMMUNITY_Community 1238|Community 1238]]
@@ -1419,7 +1424,7 @@
 - [[_COMMUNITY_Community 1406|Community 1406]]
 - [[_COMMUNITY_Community 1407|Community 1407]]
 - [[_COMMUNITY_Community 1408|Community 1408]]
-- [[_COMMUNITY_Agent Legibility|Agent Legibility]]
+- [[_COMMUNITY_Community 1409|Community 1409]]
 - [[_COMMUNITY_Community 1410|Community 1410]]
 - [[_COMMUNITY_Community 1411|Community 1411]]
 - [[_COMMUNITY_Community 1412|Community 1412]]
@@ -1587,7 +1592,7 @@
 - [[_COMMUNITY_Community 1574|Community 1574]]
 - [[_COMMUNITY_Community 1575|Community 1575]]
 - [[_COMMUNITY_Community 1576|Community 1576]]
-- [[_COMMUNITY_Harness Engineering Concepts|Harness Engineering Concepts]]
+- [[_COMMUNITY_Community 1577|Community 1577]]
 - [[_COMMUNITY_Community 1578|Community 1578]]
 - [[_COMMUNITY_Community 1579|Community 1579]]
 - [[_COMMUNITY_Community 1580|Community 1580]]
@@ -1625,11 +1630,6 @@
 - [[_COMMUNITY_Community 1612|Community 1612]]
 - [[_COMMUNITY_Community 1613|Community 1613]]
 - [[_COMMUNITY_Community 1614|Community 1614]]
-- [[_COMMUNITY_Community 1615|Community 1615]]
-- [[_COMMUNITY_Community 1616|Community 1616]]
-- [[_COMMUNITY_Community 1617|Community 1617]]
-- [[_COMMUNITY_Community 1618|Community 1618]]
-- [[_COMMUNITY_Community 1619|Community 1619]]
 - [[_COMMUNITY_Community 1620|Community 1620]]
 - [[_COMMUNITY_Community 1621|Community 1621]]
 - [[_COMMUNITY_Community 1622|Community 1622]]
@@ -1651,15 +1651,6 @@
 - [[_COMMUNITY_Community 1638|Community 1638]]
 - [[_COMMUNITY_Community 1639|Community 1639]]
 - [[_COMMUNITY_Community 1640|Community 1640]]
-- [[_COMMUNITY_Community 1641|Community 1641]]
-- [[_COMMUNITY_Community 1642|Community 1642]]
-- [[_COMMUNITY_Community 1643|Community 1643]]
-- [[_COMMUNITY_Community 1644|Community 1644]]
-- [[_COMMUNITY_Community 1645|Community 1645]]
-- [[_COMMUNITY_Community 1646|Community 1646]]
-- [[_COMMUNITY_Community 1647|Community 1647]]
-- [[_COMMUNITY_Community 1648|Community 1648]]
-- [[_COMMUNITY_Community 1649|Community 1649]]
 - [[_COMMUNITY_Community 1650|Community 1650]]
 - [[_COMMUNITY_Community 1651|Community 1651]]
 - [[_COMMUNITY_Community 1652|Community 1652]]
@@ -1800,8 +1791,6 @@
 - [[_COMMUNITY_Community 1787|Community 1787]]
 - [[_COMMUNITY_Community 1788|Community 1788]]
 - [[_COMMUNITY_Community 1789|Community 1789]]
-- [[_COMMUNITY_Community 1790|Community 1790]]
-- [[_COMMUNITY_Community 1791|Community 1791]]
 - [[_COMMUNITY_Community 1792|Community 1792]]
 - [[_COMMUNITY_Community 1793|Community 1793]]
 - [[_COMMUNITY_Community 1794|Community 1794]]
@@ -1823,7 +1812,6 @@
 - [[_COMMUNITY_Community 1810|Community 1810]]
 - [[_COMMUNITY_Community 1811|Community 1811]]
 - [[_COMMUNITY_Community 1812|Community 1812]]
-- [[_COMMUNITY_Community 1813|Community 1813]]
 - [[_COMMUNITY_Community 1814|Community 1814]]
 - [[_COMMUNITY_Community 1815|Community 1815]]
 - [[_COMMUNITY_Community 1816|Community 1816]]
@@ -1842,37 +1830,31 @@
 - [[_COMMUNITY_Community 1829|Community 1829]]
 - [[_COMMUNITY_Community 1830|Community 1830]]
 - [[_COMMUNITY_Community 1831|Community 1831]]
-- [[_COMMUNITY_Community 1832|Community 1832]]
 - [[_COMMUNITY_Community 1833|Community 1833]]
 - [[_COMMUNITY_Community 1834|Community 1834]]
 - [[_COMMUNITY_Community 1835|Community 1835]]
-- [[_COMMUNITY_Community 1836|Community 1836]]
-- [[_COMMUNITY_Community 1837|Community 1837]]
 - [[_COMMUNITY_Community 1838|Community 1838]]
 - [[_COMMUNITY_Community 1839|Community 1839]]
 - [[_COMMUNITY_Community 1840|Community 1840]]
 - [[_COMMUNITY_Community 1841|Community 1841]]
 - [[_COMMUNITY_Community 1842|Community 1842]]
 - [[_COMMUNITY_Community 1843|Community 1843]]
-- [[_COMMUNITY_Cloudflare Challenge Page|Cloudflare Challenge Page]]
+- [[_COMMUNITY_Community 1844|Community 1844]]
 - [[_COMMUNITY_Community 1845|Community 1845]]
 - [[_COMMUNITY_Community 1846|Community 1846]]
 - [[_COMMUNITY_Community 1847|Community 1847]]
 - [[_COMMUNITY_Community 1848|Community 1848]]
 - [[_COMMUNITY_Community 1849|Community 1849]]
 - [[_COMMUNITY_Community 1850|Community 1850]]
-- [[_COMMUNITY_Community 1851|Community 1851]]
 - [[_COMMUNITY_Community 1852|Community 1852]]
 - [[_COMMUNITY_Community 1853|Community 1853]]
-- [[_COMMUNITY_Community 1854|Community 1854]]
-- [[_COMMUNITY_Community 1855|Community 1855]]
 - [[_COMMUNITY_Community 1856|Community 1856]]
 - [[_COMMUNITY_Community 1857|Community 1857]]
 - [[_COMMUNITY_Community 1858|Community 1858]]
 - [[_COMMUNITY_Community 1859|Community 1859]]
 - [[_COMMUNITY_Community 1860|Community 1860]]
 - [[_COMMUNITY_Community 1861|Community 1861]]
-- [[_COMMUNITY_Harness Engineering Details|Harness Engineering Details]]
+- [[_COMMUNITY_Community 1862|Community 1862]]
 - [[_COMMUNITY_Community 1863|Community 1863]]
 - [[_COMMUNITY_Community 1864|Community 1864]]
 - [[_COMMUNITY_Community 1865|Community 1865]]
@@ -1886,12 +1868,10 @@
 - [[_COMMUNITY_Community 1873|Community 1873]]
 - [[_COMMUNITY_Community 1874|Community 1874]]
 - [[_COMMUNITY_Community 1875|Community 1875]]
-- [[_COMMUNITY_Community 1876|Community 1876]]
 - [[_COMMUNITY_Community 1877|Community 1877]]
 - [[_COMMUNITY_Community 1878|Community 1878]]
 - [[_COMMUNITY_Community 1879|Community 1879]]
 - [[_COMMUNITY_Community 1880|Community 1880]]
-- [[_COMMUNITY_Community 1881|Community 1881]]
 - [[_COMMUNITY_Community 1882|Community 1882]]
 - [[_COMMUNITY_Community 1883|Community 1883]]
 - [[_COMMUNITY_Community 1884|Community 1884]]
@@ -1926,14 +1906,14 @@
 - [[_COMMUNITY_Community 1913|Community 1913]]
 - [[_COMMUNITY_Community 1914|Community 1914]]
 - [[_COMMUNITY_Community 1915|Community 1915]]
-- [[_COMMUNITY_Progressive Disclosure (AGENTS.md)|Progressive Disclosure (AGENTS.md)]]
+- [[_COMMUNITY_Community 1916|Community 1916]]
 - [[_COMMUNITY_Community 1917|Community 1917]]
 - [[_COMMUNITY_Community 1918|Community 1918]]
 - [[_COMMUNITY_Community 1919|Community 1919]]
 - [[_COMMUNITY_Community 1920|Community 1920]]
 - [[_COMMUNITY_Community 1921|Community 1921]]
 - [[_COMMUNITY_Community 1922|Community 1922]]
-- [[_COMMUNITY_Layered Architecture Invariants|Layered Architecture Invariants]]
+- [[_COMMUNITY_Community 1923|Community 1923]]
 - [[_COMMUNITY_Community 1924|Community 1924]]
 - [[_COMMUNITY_Community 1925|Community 1925]]
 - [[_COMMUNITY_Community 1926|Community 1926]]
@@ -1986,8 +1966,8 @@
 - [[_COMMUNITY_Community 1973|Community 1973]]
 - [[_COMMUNITY_Community 1974|Community 1974]]
 - [[_COMMUNITY_Community 1975|Community 1975]]
-- [[_COMMUNITY_Progressive Disclosure (AGENTS.md)|Progressive Disclosure (AGENTS.md)]]
-- [[_COMMUNITY_Effective Harnesses (Anthropic)|Effective Harnesses (Anthropic)]]
+- [[_COMMUNITY_Community 1976|Community 1976]]
+- [[_COMMUNITY_Community 1977|Community 1977]]
 - [[_COMMUNITY_Community 1978|Community 1978]]
 - [[_COMMUNITY_Community 1979|Community 1979]]
 - [[_COMMUNITY_Community 1980|Community 1980]]
@@ -2050,7 +2030,7 @@
 - [[_COMMUNITY_Community 2055|Community 2055]]
 - [[_COMMUNITY_Community 2056|Community 2056]]
 - [[_COMMUNITY_Community 2057|Community 2057]]
-- [[_COMMUNITY_Agent Observability|Agent Observability]]
+- [[_COMMUNITY_Community 2058|Community 2058]]
 - [[_COMMUNITY_Community 2059|Community 2059]]
 - [[_COMMUNITY_Community 2060|Community 2060]]
 - [[_COMMUNITY_Community 2061|Community 2061]]
@@ -2070,14 +2050,14 @@
 ## Surprising Connections (you probably didn't know these)
 - `Models API` --semantically_similar_to--> `Beta Models API`  [INFERRED] [semantically similar]
   /Users/zpratt/Developer/claude-knowledge/claude-code-docs/content/docs/claude/platform.claude.com/docs/en/api/models.md → claude-code-docs/content/docs/claude/platform.claude.com/docs/en/api/python/beta/models.md
+- `Messages API` --semantically_similar_to--> `Beta Messages API`  [INFERRED] [semantically similar]
+  /Users/zpratt/Developer/claude-knowledge/claude-code-docs/content/docs/claude/platform.claude.com/docs/en/api/messages.md → claude-code-docs/content/docs/claude/platform.claude.com/docs/en/api/python/beta/messages.md
 - `Create Message Operation` --semantically_similar_to--> `Create Message Batch Operation`  [INFERRED] [semantically similar]
   /Users/zpratt/Developer/claude-knowledge/claude-code-docs/content/docs/claude/platform.claude.com/docs/en/api/typescript/beta/messages/create.md → claude-code-docs/content/docs/claude/platform.claude.com/docs/en/api/csharp/messages/batches.md
 - `Skill Version` --semantically_similar_to--> `Agent Version`  [INFERRED] [semantically similar]
   /Users/zpratt/Developer/claude-knowledge/claude-code-docs/content/docs/claude/platform.claude.com/docs/en/api/java/beta/skills.md → claude-code-docs/content/docs/claude/platform.claude.com/docs/en/api/typescript/beta/agents.md
 - `Skill Version` --semantically_similar_to--> `Memory Version`  [INFERRED] [semantically similar]
   /Users/zpratt/Developer/claude-knowledge/claude-code-docs/content/docs/claude/platform.claude.com/docs/en/api/java/beta/skills.md → claude-code-docs/content/docs/claude/platform.claude.com/docs/en/api/typescript/beta/memory_stores.md
-- `List Skills` --semantically_similar_to--> `List Skill Versions Operation`  [INFERRED] [semantically similar]
-  /Users/zpratt/Developer/claude-knowledge/claude-code-docs/content/docs/claude/platform.claude.com/docs/en/api/go/beta/skills/list.md → claude-code-docs/content/docs/claude/platform.claude.com/docs/en/api/typescript/beta/skills/versions/list.md
 
 ## Hyperedges (group relationships)
 - **Four Coding Harnesses** — harness_github_copilot, harness_claude_code, harness_codex, harness_hermes [EXTRACTED 1.00]
@@ -2087,7 +2067,7 @@
 - **Agent Skills SDLC Command Lifecycle** — agent_skills_sdlc, agent_skills_define_spec, agent_skills_plan_command, agent_skills_build_command, agent_skills_verify_test_command, agent_skills_review_command, agent_skills_ship_command, agent_skills_code_simplify_command [EXTRACTED 1.00]
 - **Cross-Session State Handoff** — anthropic_harnesses_initializer_agent, anthropic_harnesses_coding_agent, anthropic_harnesses_claude_progress_txt, anthropic_harnesses_git_history, anthropic_harnesses_feature_list, anthropic_harnesses_structured_updates [EXTRACTED 1.00]
 
-## Communities (2062 total, 120 thin omitted)
+## Communities (2037 total, 134 thin omitted)
 
 ### Community 0 - "Community 0"
 Cohesion: 0.01
@@ -2163,15 +2143,15 @@ Nodes (96): April 14, 2026, April 16, 2026, April 20, 2026, April 23, 2026, Apri
 
 ### Community 18 - "Community 18"
 Cohesion: 0.03
-Nodes (78): code:ruby (require "anthropic"), code:ruby (require "anthropic"), Events, Events, Events, Events, Events, Events (+70 more)
+Nodes (58): code:ruby (require "anthropic"), code:ruby (require "anthropic"), Events, Events, Events, Events, Events, Events (+50 more)
 
 ### Community 19 - "Community 19"
-Cohesion: 0.19
-Nodes (76): Beta Managed Agents Agent Custom Tool Use Event, Beta Managed Agents Agent MCP Tool Result Event, Beta Managed Agents Agent MCP Tool Use Event, Beta Managed Agents Agent Message Event, Beta Managed Agents Agent Thinking Event, Beta Managed Agents Agent Thread Context Compacted Event, Beta Managed Agents Agent Thread Message Received Event, Beta Managed Agents Agent Thread Message Sent Event (+68 more)
+Cohesion: 0.10
+Nodes (112): Beta Managed Agents Agent Custom Tool Use Event, Beta Managed Agents Agent MCP Tool Result Event, Beta Managed Agents Agent MCP Tool Use Event, Beta Managed Agents Agent Message Event, Beta Managed Agents Agent Thinking Event, Beta Managed Agents Agent Thread Context Compacted Event, Beta Managed Agents Agent Thread Message Received Event, Beta Managed Agents Agent Thread Message Sent Event (+104 more)
 
 ### Community 20 - "Community 20"
-Cohesion: 0.03
-Nodes (69): Agent, AskUserQuestion, Bash, BashOutput, code:python ({), code:python ({), code:python ({), code:python ({) (+61 more)
+Cohesion: 0.04
+Nodes (52): Agent, Bash, BashOutput, code:python ({), code:python ({), code:python ({), code:python ({), code:python ({) (+44 more)
 
 ### Community 21 - "Community 21"
 Cohesion: 0.03
@@ -2214,8 +2194,8 @@ Cohesion: 0.03
 Nodes (69): Beta Managed Agents Agent Custom Tool Use Event, Beta Managed Agents Agent MCP Tool Result Event, Beta Managed Agents Agent MCP Tool Use Event, Beta Managed Agents Agent Message Event, Beta Managed Agents Agent Thinking Event, Beta Managed Agents Agent Thread Context Compacted Event, Beta Managed Agents Agent Thread Message Received Event, Beta Managed Agents Agent Thread Message Sent Event (+61 more)
 
 ### Community 31 - "Community 31"
-Cohesion: 0.03
-Nodes (61): Archive, Beta Managed Agents Credential, Beta Managed Agents Credential Validation, Beta Managed Agents Credential Validation Status, Beta Managed Agents Deleted Credential, Beta Managed Agents MCP OAuth Auth Response, Beta Managed Agents MCP OAuth Create Params, Beta Managed Agents MCP OAuth Refresh Params (+53 more)
+Cohesion: 0.08
+Nodes (25): Beta Managed Agents Credential, Beta Managed Agents Credential Validation, Beta Managed Agents Credential Validation Status, Beta Managed Agents Deleted Credential, Beta Managed Agents MCP OAuth Auth Response, Beta Managed Agents MCP OAuth Create Params, Beta Managed Agents MCP OAuth Refresh Params, Beta Managed Agents MCP OAuth Refresh Response (+17 more)
 
 ### Community 32 - "Community 32"
 Cohesion: 0.03
@@ -2230,24 +2210,24 @@ Cohesion: 0.04
 Nodes (45): code:`bash (curl -sS --fail-with-body "https://api.anthropic.com/v1/sess), code:`bash (# Agent is currently analyzing a file...), code:`bash (# Agent is currently analyzing a file...), code:`python (# Agent is currently analyzing a file...), code:`typescript (// Agent is currently analyzing a file...), code:`csharp (// Agent is currently analyzing a file...), code:`go (// Agent is currently analyzing a file...), code:`java (// Agent is currently analyzing a file...) (+37 more)
 
 ### Community 35 - "Community 35"
-Cohesion: 0.07
-Nodes (53): Agents API, Beta Managed Agents Agent, Beta Managed Agents Agent Toolset, Agents reference, anthropic-beta header, Anthropic Beta Domain Types, Beta Feature Header, Beta types reference (+45 more)
+Cohesion: 0.06
+Nodes (54): Agents API, Beta Managed Agents Agent, Beta Managed Agents Agent Toolset, Agents reference, anthropic-beta header, Anthropic Beta Domain Types, Beta Feature Header, Beta types reference (+46 more)
 
 ### Community 36 - "Community 36"
 Cohesion: 0.07
 Nodes (51): BetaManagedAgentsAgent, Agent Version, Agent Versioning, Agents API, BetaManagedAgentsAgentToolConfig, Archive Agent, Agents Archive API, Built-in Agent Toolset (+43 more)
 
 ### Community 37 - "Community 37"
-Cohesion: 0.07
-Nodes (51): Cancel Message Batch, Create Message Batch, Delete Message Batch, List Message Batches, Message Batch Results, Retrieve Message Batch, Cancel Message Batch API, Cancel Message Batch (+43 more)
+Cohesion: 0.05
+Nodes (67): Cancel Message Batch, Create Message Batch, Delete Message Batch, List Message Batches, Message Batch Results, Retrieve Message Batch, Cancel Message Batch API, Cancel Message Batch (+59 more)
 
 ### Community 38 - "Community 38"
-Cohesion: 0.04
-Nodes (51): Archive, Beta Managed Agents Credential, Beta Managed Agents Credential Validation, Beta Managed Agents Credential Validation Status, Beta Managed Agents Deleted Credential, Beta Managed Agents MCP OAuth Auth Response, Beta Managed Agents MCP OAuth Create Params, Beta Managed Agents MCP OAuth Refresh Params (+43 more)
+Cohesion: 0.08
+Nodes (25): Beta Managed Agents Credential, Beta Managed Agents Credential Validation, Beta Managed Agents Credential Validation Status, Beta Managed Agents Deleted Credential, Beta Managed Agents MCP OAuth Auth Response, Beta Managed Agents MCP OAuth Create Params, Beta Managed Agents MCP OAuth Refresh Params, Beta Managed Agents MCP OAuth Refresh Response (+17 more)
 
 ### Community 39 - "Community 39"
-Cohesion: 0.04
-Nodes (47): `AgentDefinition`, `CanUseTool`, `ClaudeAgentOptions`, code:python (@dataclass), code:python (from abc import ABC, abstractmethod), code:python (@dataclass), code:python (# Expected dict shape for output_format), code:python (class SystemPromptPreset(TypedDict):) (+39 more)
+Cohesion: 0.13
+Nodes (14): `AgentDefinition`, `CanUseTool`, code:python (@dataclass), code:python (CanUseTool = Callable[), code:python (class ToolsPreset(TypedDict):), code:python (SdkBeta = Literal["context-1m-2025-08-07"]), code:python (class McpSdkServerConfig(TypedDict):), code:python (class McpServerStatus(TypedDict):) (+6 more)
 
 ### Community 40 - "Community 40"
 Cohesion: 0.04
@@ -2286,8 +2266,8 @@ Cohesion: 0.04
 Nodes (49): Archive, Beta Managed Agents Agent Params, Beta Managed Agents Branch Checkout, Beta Managed Agents Cache Creation Usage, Beta Managed Agents Commit Checkout, Beta Managed Agents Deleted Session, Beta Managed Agents File Resource Params, Beta Managed Agents GitHub Repository Resource Params (+41 more)
 
 ### Community 49 - "Community 49"
-Cohesion: 0.07
-Nodes (48): Best practices for Claude Code, Outcome, Define outcomes, Dreams, Event stream, Session event stream, BetaFileScope, FileMetadata (+40 more)
+Cohesion: 0.08
+Nodes (37): Best practices for Claude Code, AnthropicBeta Enum, Beta API, Outcome, Define outcomes, Dreams, Event stream, Session event stream (+29 more)
 
 ### Community 50 - "Community 50"
 Cohesion: 0.04
@@ -2298,8 +2278,8 @@ Cohesion: 0.04
 Nodes (47): Attachments, code:http (curl https://api.anthropic.com/v1/compliance/apps/projects \), code:http (curl https://api.anthropic.com/v1/compliance/apps/projects/$), code:http (curl https://api.anthropic.com/v1/compliance/apps/projects/$), code:http (curl https://api.anthropic.com/v1/compliance/apps/projects/$), code:http (curl https://api.anthropic.com/v1/compliance/apps/projects/d), code:http (curl https://api.anthropic.com/v1/compliance/apps/projects/d), Delete (+39 more)
 
 ### Community 52 - "Community 52"
-Cohesion: 0.05
-Nodes (40): Beta Managed Agents Deleted Vault, Beta Managed Agents Vault, Body Parameters, code:ruby (require "anthropic"), Credentials, Domain Types, Example, Example (+32 more)
+Cohesion: 0.06
+Nodes (35): Body Parameters, code:ruby (require "anthropic"), Example, Example, Example, Example, Example, Example (+27 more)
 
 ### Community 53 - "Community 53"
 Cohesion: 0.04
@@ -2374,8 +2354,8 @@ Cohesion: 0.04
 Nodes (42): code:python (async def handle_tool_request(tool_name, input_data, context), code:typescript (canUseTool: async (toolName, input) => {), code:python (async def can_use_tool(tool_name, input_data, context):), code:typescript (canUseTool: async (toolName, input, { suggestions = [] }) =>), code:python (async def can_use_tool(tool_name, input_data, context):), code:typescript (canUseTool: async (toolName, input) => {), code:python (async def can_use_tool(tool_name, input_data, context):), code:typescript (canUseTool: async (toolName, input) => {) (+34 more)
 
 ### Community 71 - "Community 71"
-Cohesion: 0.09
-Nodes (45): BetaManagedAgentsAgent, Agents Versions API, Add Session Resource, Delete Session Resource, List Session Resources, Get Session Resource, Update Session Resource, Sessions Archive API (+37 more)
+Cohesion: 0.18
+Nodes (24): Add Session Resource, Delete Session Resource, List Session Resources, Get Session Resource, Update Session Resource, BetaManagedAgentsDeleteSessionResource, Session Resource Deletion Confirmation, File Resource (+16 more)
 
 ### Community 72 - "Community 72"
 Cohesion: 0.08
@@ -2399,7 +2379,7 @@ Nodes (44): Batch requests, Citations, code:bash (curl https://api.anthropic.com
 
 ### Community 77 - "Community 77"
 Cohesion: 0.05
-Nodes (43): Claude 4.5 and earlier, Claude 4.6 and later, code:bash (ant messages create --stream --format jsonl \), code:sse (event: error), code:python (import anthropic), code:typescript (import Anthropic from "@anthropic-ai/sdk";), code:bash (curl https://api.anthropic.com/v1/messages \), code:bash (ant messages create --stream --format jsonl <<'YAML') (+35 more)
+Nodes (35): anthropic-version header, Version history, Versions, Claude 4.5 and earlier, Claude 4.6 and later, code:python (import anthropic), code:typescript (import Anthropic from "@anthropic-ai/sdk";), code:csharp (using System;) (+27 more)
 
 ### Community 78 - "Community 78"
 Cohesion: 0.05
@@ -2494,8 +2474,8 @@ Cohesion: 0.05
 Nodes (41): Archive, Beta Cloud Config, Beta Cloud Config Params, Beta Environment, Beta Environment Delete Response, Beta Limited Network, Beta Limited Network Params, Beta Packages (+33 more)
 
 ### Community 101 - "Community 101"
-Cohesion: 0.09
-Nodes (40): Beta Message Batch, Cancel Batch (POST /v1/messages/batches/{message_batch_id}/cancel), Create Batch (POST /v1/messages/batches), Delete Batch (DELETE /v1/messages/batches/{message_batch_id}), List Batches (GET /v1/messages/batches), Message Batch Results Stream, Retrieve Message Batch, Beta Messages API (+32 more)
+Cohesion: 0.12
+Nodes (30): Beta Message Batch, Cancel Batch (POST /v1/messages/batches/{message_batch_id}/cancel), Create Batch (POST /v1/messages/batches), Delete Batch (DELETE /v1/messages/batches/{message_batch_id}), List Batches (GET /v1/messages/batches), Message Batch Results Stream, Retrieve Message Batch, Message Batches API (+22 more)
 
 ### Community 102 - "Community 102"
 Cohesion: 0.05
@@ -2514,12 +2494,12 @@ Cohesion: 0.05
 Nodes (39): Bash tool, code:bash (curl https://api.anthropic.com/v1/messages \), code:python (import shlex), code:json ({), code:json ({), code:json ({), code:python (import subprocess), code:python (# Commands run in the same session maintain state) (+31 more)
 
 ### Community 106 - "Community 106"
-Cohesion: 0.08
-Nodes (39): Cancel Message Batch Operation, Ruby Text Completion API, Count Tokens Operation, C# Text Completion Create Unavailable, Create Message Batch Operation, Message Batch, Create Message Operation, Delete Message Batch (+31 more)
+Cohesion: 0.11
+Nodes (28): Count Tokens Operation, Create Message Batch Operation, Create Message Operation, File Metadata, Session File Scope, Delete File Operation, Download File Operation, List Files Operation (+20 more)
 
 ### Community 107 - "Community 107"
-Cohesion: 0.05
-Nodes (39): Archive, Body Parameters, code:http (curl https://api.anthropic.com/v1/vaults/$VAULT_ID/credentia), code:http (curl https://api.anthropic.com/v1/vaults/$VAULT_ID/credentia), code:http (curl https://api.anthropic.com/v1/vaults/$VAULT_ID/credentia), code:http (curl https://api.anthropic.com/v1/vaults/$VAULT_ID/credentia), code:http (curl https://api.anthropic.com/v1/vaults/$VAULT_ID/credentia), code:http (curl https://api.anthropic.com/v1/vaults/$VAULT_ID/credentia) (+31 more)
+Cohesion: 0.29
+Nodes (7): code:http (curl https://api.anthropic.com/v1/vaults/$VAULT_ID/credentia), Example, Header Parameters, List, Path Parameters, Query Parameters, Returns
 
 ### Community 108 - "Community 108"
 Cohesion: 0.05
@@ -2586,16 +2566,16 @@ Cohesion: 0.11
 Nodes (37): agent.custom_tool_use event, agent.mcp_tool_use event, agent.tool_use event, requires_action stop reason, session.status_idle event, beta.sessions.resources.add, BetaManagedAgentsFileResource, BetaManagedAgentsGitHubRepositoryResource (+29 more)
 
 ### Community 124 - "Community 124"
-Cohesion: 0.05
-Nodes (32): Beta features, Client SDKs, code:bash (brew install anthropics/tap/ant), code:bash (ant messages create \), code:python (import anthropic), code:typescript (import Anthropic from "@anthropic-ai/sdk";), code:csharp (using Anthropic;), code:go (package main) (+24 more)
+Cohesion: 0.06
+Nodes (29): Beta features, Client SDKs, code:bash (brew install anthropics/tap/ant), code:bash (ant messages create \), code:python (import anthropic), code:typescript (import Anthropic from "@anthropic-ai/sdk";), code:csharp (using Anthropic;), code:go (package main) (+21 more)
 
 ### Community 125 - "Community 125"
 Cohesion: 0.05
 Nodes (37): code:ruby (require "anthropic"), Create, Example, Example, Example, Example, Example, Example (+29 more)
 
 ### Community 126 - "Community 126"
-Cohesion: 0.05
-Nodes (37): Archive, code:ruby (require "anthropic"), Delete, Delete, Delete, Delete, Delete, Delete (+29 more)
+Cohesion: 0.07
+Nodes (30): code:ruby (require "anthropic"), Delete, Delete, Delete, Delete, Delete, Delete, Delete (+22 more)
 
 ### Community 127 - "Community 127"
 Cohesion: 0.10
@@ -2617,7 +2597,7 @@ Nodes (37): Citations, Citation-enabled document blocks, Advanced usage, Common 
 Cohesion: 0.06
 Nodes (33): Checkpoint before risky operations, Checkpointing options not recognized, code:python (import asyncio), code:python (import asyncio), code:typescript (import { query } from "@anthropic-ai/claude-agent-sdk";), code:python (import asyncio), code:typescript (import { query } from "@anthropic-ai/claude-agent-sdk";), code:python (def add(a, b):) (+25 more)
 
-### Community 132 - "Agent Skills API Quickstart"
+### Community 132 - "Community 132"
 Cohesion: 0.06
 Nodes (32): Agent Skills overview, code:bash (curl "https://api.anthropic.com/v1/skills?source=anthropic" ), code:bash (# Extract file_id with --transform on the messages create ca), code:python (from typing import Any), code:typescript (// Extract file ID from response), code:bash (curl https://api.anthropic.com/v1/messages \), code:bash (ant beta:messages create \), code:typescript (const response = await client.beta.messages.create({) (+24 more)
 
@@ -2626,8 +2606,8 @@ Cohesion: 0.06
 Nodes (36): Beta User Profile, Beta User Profile Enrollment URL, Beta User Profile Trust Grant, Body Parameters, Body Parameters, code:http (curl https://api.anthropic.com/v1/user_profiles \), code:http (curl https://api.anthropic.com/v1/user_profiles \), code:http (curl https://api.anthropic.com/v1/user_profiles/$USER_PROFIL) (+28 more)
 
 ### Community 134 - "Community 134"
-Cohesion: 0.07
-Nodes (36): code:ruby (require "anthropic"), Events, Example, Example, Example, Example, Example, Example (+28 more)
+Cohesion: 0.06
+Nodes (31): 1. GitHub Copilot → Glob-scoped instruction model, 2. Claude Code → Hierarchical composition model, 3. Codex → AGENTS.md-first composition model, 4. Hermes → First-match model, Agentic Coding Harness Instructions — Aggregated Mental Model, Anti-patterns, Canonical structure, code:block1 (Agent = Model + Harness) (+23 more)
 
 ### Community 135 - "Community 135"
 Cohesion: 0.06
@@ -2658,8 +2638,8 @@ Cohesion: 0.16
 Nodes (35): Body Parameters, code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([), code:json ([) (+27 more)
 
 ### Community 142 - "Community 142"
-Cohesion: 0.07
-Nodes (35): code:ruby (require "anthropic"), Delete, Delete, Delete, Delete, Delete, Delete, Delete (+27 more)
+Cohesion: 0.08
+Nodes (50): Beta Managed Agents Delete Session Resource, Beta Managed Agents File Resource, Beta Managed Agents GitHub Repository Resource, Beta Managed Agents Memory Store Resource, Beta Managed Agents Session Resource, code:ruby (require "anthropic"), Delete, Delete (+42 more)
 
 ### Community 143 - "Community 143"
 Cohesion: 0.06
@@ -2670,8 +2650,8 @@ Cohesion: 0.06
 Nodes (27): Beta Webhook Event, Beta Webhook Event Data, Beta Webhook Session Archived Event Data, Beta Webhook Session Created Event Data, Beta Webhook Session Deleted Event Data, Beta Webhook Session Idled Event Data, Beta Webhook Session Outcome Evaluation Ended Event Data, Beta Webhook Session Pending Event Data (+19 more)
 
 ### Community 145 - "Community 145"
-Cohesion: 0.06
-Nodes (28): code:python (from claude_agent_sdk import tool, create_sdk_mcp_server), code:python (from claude_agent_sdk import list_sessions), code:python (from claude_agent_sdk import get_session_info), code:python (from claude_agent_sdk import list_sessions, rename_session), code:python (from claude_agent_sdk import list_sessions, tag_session), code:python (import asyncio), `create_sdk_mcp_server()`, Example (+20 more)
+Cohesion: 0.07
+Nodes (23): code:python (from claude_agent_sdk import list_sessions, get_session_mess), code:python (from claude_agent_sdk import get_session_info), code:python (from claude_agent_sdk import list_sessions, rename_session), code:python (from claude_agent_sdk import list_sessions, tag_session), code:python (import asyncio), Example, Example, Example (+15 more)
 
 ### Community 146 - "Community 146"
 Cohesion: 0.06
@@ -2730,8 +2710,8 @@ Cohesion: 0.06
 Nodes (34): Archive, Beta Managed Agents Deleted Memory Store, Beta Managed Agents Memory Store, code:java (package com.anthropic.example;), code:java (package com.anthropic.example;), code:java (package com.anthropic.example;), code:java (package com.anthropic.example;), code:java (package com.anthropic.example;) (+26 more)
 
 ### Community 160 - "Community 160"
-Cohesion: 0.06
-Nodes (34): Batches, Cancel, code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([) (+26 more)
+Cohesion: 0.05
+Nodes (42): Batches, Cancel, code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([) (+34 more)
 
 ### Community 161 - "Community 161"
 Cohesion: 0.06
@@ -2838,16 +2818,16 @@ Cohesion: 0.06
 Nodes (33): Beta Managed Agents Agent, Beta Managed Agents Agent Reference, Beta Managed Agents Agent Tool Config, Beta Managed Agents Agent Tool Config Params, Beta Managed Agents Agent Toolset20260401, Beta Managed Agents Agent Toolset20260401 Params, Beta Managed Agents Agent Toolset Default Config, Beta Managed Agents Agent Toolset Default Config Params (+25 more)
 
 ### Community 187 - "Community 187"
-Cohesion: 0.06
-Nodes (32): Anthropic Beta, Beta, Beta API Error, Beta Authentication Error, Beta Billing Error, Beta Error, Beta Error Response, Beta Gateway Timeout Error (+24 more)
+Cohesion: 0.09
+Nodes (21): Anthropic Beta, Beta, Beta API Error, Beta Authentication Error, Beta Billing Error, Beta Error, Beta Error Response, Beta Gateway Timeout Error (+13 more)
 
 ### Community 188 - "Community 188"
 Cohesion: 0.06
 Nodes (33): Beta Managed Agents Agent, Beta Managed Agents Agent Reference, Beta Managed Agents Agent Tool Config, Beta Managed Agents Agent Tool Config Params, Beta Managed Agents Agent Toolset20260401, Beta Managed Agents Agent Toolset20260401 Params, Beta Managed Agents Agent Toolset Default Config, Beta Managed Agents Agent Toolset Default Config Params (+25 more)
 
 ### Community 189 - "Community 189"
-Cohesion: 0.06
-Nodes (32): Anthropic Beta, Beta, Beta API Error, Beta Authentication Error, Beta Billing Error, Beta Error, Beta Error Response, Beta Gateway Timeout Error (+24 more)
+Cohesion: 0.09
+Nodes (21): Anthropic Beta, Beta, Beta API Error, Beta Authentication Error, Beta Billing Error, Beta Error, Beta Error Response, Beta Gateway Timeout Error (+13 more)
 
 ### Community 190 - "Community 190"
 Cohesion: 0.06
@@ -2873,7 +2853,7 @@ Nodes (32): Body Parameters, Body Parameters, code:http (curl https://api.anthro
 Cohesion: 0.06
 Nodes (31): Agent SDK overview, Branding guidelines, Capabilities, Changelog, Claude Code features, code:python (import asyncio), code:python (import asyncio), code:typescript (import { query, HookCallback } from "@anthropic-ai/claude-ag) (+23 more)
 
-### Community 196 - "Skills Architecture & Loading Levels"
+### Community 196 - "Community 196"
 Cohesion: 0.06
 Nodes (31): Agent Skills, Available Skills, claude.ai, Claude API, Claude Code, code:yaml (---), code:`markdown (# PDF Processing), code:block3 (+23 more)
 
@@ -2914,8 +2894,8 @@ Cohesion: 0.06
 Nodes (32): Add, Beta Managed Agents Delete Session Resource, Beta Managed Agents File Resource, Beta Managed Agents GitHub Repository Resource, Beta Managed Agents Memory Store Resource, Beta Managed Agents Session Resource, code:csharp (ResourceAddParams parameters = new()), code:csharp (ResourceListParams parameters = new()) (+24 more)
 
 ### Community 206 - "Community 206"
-Cohesion: 0.06
-Nodes (31): Beta, Beta API Error, Beta Authentication Error, Beta Billing Error, Beta Error, Beta Error Response, Beta Gateway Timeout Error, Beta Invalid Request Error (+23 more)
+Cohesion: 0.10
+Nodes (20): Beta, Beta API Error, Beta Authentication Error, Beta Billing Error, Beta Error, Beta Error Response, Beta Gateway Timeout Error, Beta Invalid Request Error (+12 more)
 
 ### Community 207 - "Community 207"
 Cohesion: 0.06
@@ -2926,8 +2906,8 @@ Cohesion: 0.06
 Nodes (32): Add, Beta Managed Agents Delete Session Resource, Beta Managed Agents File Resource, Beta Managed Agents GitHub Repository Resource, Beta Managed Agents Memory Store Resource, Beta Managed Agents Session Resource, code:java (package com.anthropic.example;), code:java (package com.anthropic.example;) (+24 more)
 
 ### Community 209 - "Community 209"
-Cohesion: 0.06
-Nodes (32): Batches, code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([), code:json ([) (+24 more)
+Cohesion: 0.07
+Nodes (29): Batches, Cancel, code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([) (+21 more)
 
 ### Community 210 - "Community 210"
 Cohesion: 0.06
@@ -2954,8 +2934,8 @@ Cohesion: 0.06
 Nodes (30): Actions, Agents, Authentication, Batch processing, code:text (arn:aws:aws-external-anthropic:{region}:{account-id}:workspa), code:json ({), code:json ({), code:json ({) (+22 more)
 
 ### Community 216 - "Community 216"
-Cohesion: 0.06
-Nodes (30): Batches, Cancel, code:http (curl https://api.anthropic.com/v1/messages/batches/$MESSAGE_), code:http (curl https://api.anthropic.com/v1/messages/batches \), code:http (curl https://api.anthropic.com/v1/messages/batches/$MESSAGE_), code:http (curl https://api.anthropic.com/v1/messages/batches/$MESSAGE_), code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([) (+22 more)
+Cohesion: 0.07
+Nodes (29): Batches, Body Parameters, Cancel, code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello) (+21 more)
 
 ### Community 217 - "Community 217"
 Cohesion: 0.08
@@ -2971,7 +2951,7 @@ Nodes (31): code:ruby (require "anthropic"), Example, Example, Example, Example,
 
 ### Community 220 - "Community 220"
 Cohesion: 0.06
-Nodes (31): Body Parameters, code:ruby (require "anthropic"), Example, Example, Example, Example, Example, Example (+23 more)
+Nodes (35): Body Parameters, code:ruby (require "anthropic"), Example, Example, Example, Example, Example, Example (+27 more)
 
 ### Community 221 - "Community 221"
 Cohesion: 0.06
@@ -2999,7 +2979,7 @@ Nodes (31): Add Session Resource API Doc, Agent Version List Page, Archive Agent
 
 ### Community 227 - "Community 227"
 Cohesion: 0.06
-Nodes (30): Batches, Cancel, code:python (import os), code:python (import os), code:python (import os), code:python (import os), code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([) (+22 more)
+Nodes (32): Batches, code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([), code:json ([) (+24 more)
 
 ### Community 228 - "Community 228"
 Cohesion: 0.06
@@ -3018,12 +2998,12 @@ Cohesion: 0.07
 Nodes (29): Anthropic Beta, Beta, Beta API Error, Beta Authentication Error, Beta Billing Error, Beta Error, Beta Error Response, Beta Gateway Timeout Error (+21 more)
 
 ### Community 232 - "Community 232"
-Cohesion: 0.07
-Nodes (30): code:ruby (require "anthropic"), Example, Example, Example, Example, Example, Example, Example (+22 more)
+Cohesion: 0.06
+Nodes (34): code:ruby (require "anthropic"), Example, Example, Example, Example, Example, Example, Example (+26 more)
 
 ### Community 233 - "Community 233"
-Cohesion: 0.07
-Nodes (30): Archive, Archive, Archive, Archive, Archive, Archive, Archive, code:ruby (require "anthropic") (+22 more)
+Cohesion: 0.05
+Nodes (42): Archive, Archive, Archive, Archive, Archive, Archive, Archive, Archive (+34 more)
 
 ### Community 234 - "Community 234"
 Cohesion: 0.07
@@ -3094,16 +3074,16 @@ Cohesion: 0.07
 Nodes (28): `AgentDefinition`, `AgentMcpServerSpec`, `applyFlagSettings()`, `CanUseTool`, code:typescript (const result = query({), code:typescript (interface Query extends AsyncGenerator<SDKMessage, void> {), code:typescript (const q = query({ prompt: messageStream });), code:typescript (interface WarmQuery extends AsyncDisposable {) (+20 more)
 
 ### Community 251 - "Community 251"
-Cohesion: 0.13
-Nodes (29): Delete File, Download File, File, List Files, Retrieve File Metadata, Session Scope, Upload File, List Files (+21 more)
+Cohesion: 0.11
+Nodes (33): Session Thread Events Overview, Delete File, Download File, File, List Files, Retrieve File Metadata, Session Scope, Upload File (+25 more)
 
 ### Community 252 - "Community 252"
 Cohesion: 0.07
 Nodes (29): code:http (curl https://api.anthropic.com/v1/skills \), code:http (curl https://api.anthropic.com/v1/skills \), code:http (curl https://api.anthropic.com/v1/skills/$SKILL_ID \), code:http (curl https://api.anthropic.com/v1/skills/$SKILL_ID \), Create, Delete, Domain Types, Example (+21 more)
 
 ### Community 253 - "Community 253"
-Cohesion: 0.07
-Nodes (29): code:ruby (require "anthropic"), Example, Example, Example, Example, Example, Example, Example (+21 more)
+Cohesion: 0.06
+Nodes (35): code:ruby (require "anthropic"), Example, Example, Example, Example, Example, Example, Example (+27 more)
 
 ### Community 254 - "Community 254"
 Cohesion: 0.07
@@ -3134,8 +3114,8 @@ Cohesion: 0.07
 Nodes (28): Access and permissions, App Home, Authentication errors, Automatic detection, Best practices, Channel-based access control, Claude Code in Slack, Context gathering (+20 more)
 
 ### Community 261 - "Community 261"
-Cohesion: 0.07
-Nodes (29): Batches, Cancel, code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([) (+21 more)
+Cohesion: 0.06
+Nodes (30): Batches, Cancel, code:go (package main), code:go (package main), code:go (package main), code:go (package main), code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([) (+22 more)
 
 ### Community 262 - "Community 262"
 Cohesion: 0.07
@@ -3146,12 +3126,12 @@ Cohesion: 0.09
 Nodes (29): Body Parameters, code:ruby (require "anthropic"), Example, Example, Example, Example, Example, Example (+21 more)
 
 ### Community 264 - "Community 264"
-Cohesion: 0.07
-Nodes (29): Batches, Cancel, code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([) (+21 more)
+Cohesion: 0.06
+Nodes (30): Batches, Cancel, code:ruby (require "anthropic"), code:ruby (require "anthropic"), code:ruby (require "anthropic"), code:ruby (require "anthropic"), code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([) (+22 more)
 
 ### Community 265 - "Community 265"
 Cohesion: 0.11
-Nodes (29): Create Skill Version Operation, File, Delete File Doc, Download File Doc, List Files Doc, Retrieve File Metadata Doc, Upload File Doc, Skill Package Layout (+21 more)
+Nodes (30): Create Skill Version Operation, File, Delete File Doc, Download File Doc, List Files Doc, Retrieve File Metadata Doc, Upload File Doc, Retrieve Skill Version Operation (+22 more)
 
 ### Community 266 - "Community 266"
 Cohesion: 0.07
@@ -3213,13 +3193,13 @@ Nodes (28): code:ruby (require "anthropic"), Example, Example, Example, Example,
 Cohesion: 0.07
 Nodes (27): code:http (curl https://api.anthropic.com/v1/compliance/organizations/$), code:http (curl https://api.anthropic.com/v1/compliance/organizations/$), code:http (curl https://api.anthropic.com/v1/compliance/organizations/$), Domain Types, Domain Types, Example, Example, Example (+19 more)
 
-### Community 281 - "Agent Harness Initialization"
+### Community 281 - "Community 281"
 Cohesion: 0.10
 Nodes (28): Branch Protection Allstar Config, Branch Protection Policy, Log Action, Additional Context Field, area/documentation Label, area/extensions Label, Existing Website Issues Search, Expected Behavior Field (+20 more)
 
 ### Community 282 - "Community 282"
-Cohesion: 0.07
-Nodes (23): Advanced Features with ClaudeSDKClient, Agent SDK reference - Python, Building a Continuous Conversation Interface, Choosing between `query()` and `ClaudeSDKClient`, code:bash (pip install claude-agent-sdk), code:python (ContentBlock = TextBlock | ThinkingBlock | ToolUseBlock | To), code:python (@dataclass), code:python (@dataclass) (+15 more)
+Cohesion: 0.12
+Nodes (12): Advanced Features with ClaudeSDKClient, Agent SDK reference - Python, Building a Continuous Conversation Interface, Choosing between `query()` and `ClaudeSDKClient`, code:bash (pip install claude-agent-sdk), Installation, Quick comparison, Real-time Progress Monitoring (+4 more)
 
 ### Community 283 - "Community 283"
 Cohesion: 0.07
@@ -3290,8 +3270,8 @@ Cohesion: 0.09
 Nodes (27): code:ruby (require "anthropic"), Example, Example, Example, Example, Example, Example, Example (+19 more)
 
 ### Community 300 - "Community 300"
-Cohesion: 0.09
-Nodes (27): Archive, Archive, Archive, Archive, Archive, Archive, code:ruby (require "anthropic"), Example (+19 more)
+Cohesion: 0.08
+Nodes (49): Archive, Archive, Archive, Archive, Archive, Archive, Archive, Archive (+41 more)
 
 ### Community 301 - "Community 301"
 Cohesion: 0.09
@@ -3466,8 +3446,8 @@ Cohesion: 0.08
 Nodes (26): Beta Webhook Event, Beta Webhook Event Data, Beta Webhook Session Archived Event Data, Beta Webhook Session Created Event Data, Beta Webhook Session Deleted Event Data, Beta Webhook Session Idled Event Data, Beta Webhook Session Outcome Evaluation Ended Event Data, Beta Webhook Session Pending Event Data (+18 more)
 
 ### Community 344 - "Community 344"
-Cohesion: 0.08
-Nodes (26): Agents, Archive, code:java (package com.anthropic.example;), code:java (package com.anthropic.example;), code:java (package com.anthropic.example;), code:java (package com.anthropic.example;), code:java (package com.anthropic.example;), Create (+18 more)
+Cohesion: 0.33
+Nodes (6): Agents, Archive, code:java (package com.anthropic.example;), Example, Parameters, Returns
 
 ### Community 345 - "Community 345"
 Cohesion: 0.10
@@ -3550,8 +3530,8 @@ Cohesion: 0.10
 Nodes (25): code:ruby (require "anthropic"), Example, Example, Example, Example, Example, Example, Example (+17 more)
 
 ### Community 365 - "Community 365"
-Cohesion: 0.08
-Nodes (25): Beta Managed Agents Agent Params, Beta Managed Agents Branch Checkout, Beta Managed Agents Cache Creation Usage, Beta Managed Agents Commit Checkout, Beta Managed Agents Deleted Session, Beta Managed Agents File Resource Params, Beta Managed Agents GitHub Repository Resource Params, Beta Managed Agents Memory Store Resource Param (+17 more)
+Cohesion: 0.06
+Nodes (34): Beta Managed Agents Agent Params, Beta Managed Agents Branch Checkout, Beta Managed Agents Cache Creation Usage, Beta Managed Agents Commit Checkout, Beta Managed Agents Deleted Session, Beta Managed Agents File Resource Params, Beta Managed Agents GitHub Repository Resource Params, Beta Managed Agents Memory Store Resource Param (+26 more)
 
 ### Community 366 - "Community 366"
 Cohesion: 0.10
@@ -3598,16 +3578,16 @@ Cohesion: 0.08
 Nodes (25): Beta Managed Agents Credential, Beta Managed Agents Credential Validation, Beta Managed Agents Credential Validation Status, Beta Managed Agents Deleted Credential, Beta Managed Agents MCP OAuth Auth Response, Beta Managed Agents MCP OAuth Create Params, Beta Managed Agents MCP OAuth Refresh Params, Beta Managed Agents MCP OAuth Refresh Response (+17 more)
 
 ### Community 377 - "Community 377"
-Cohesion: 0.08
-Nodes (25): Beta Managed Agents Credential, Beta Managed Agents Credential Validation, Beta Managed Agents Credential Validation Status, Beta Managed Agents Deleted Credential, Beta Managed Agents MCP OAuth Auth Response, Beta Managed Agents MCP OAuth Create Params, Beta Managed Agents MCP OAuth Refresh Params, Beta Managed Agents MCP OAuth Refresh Response (+17 more)
+Cohesion: 0.03
+Nodes (61): Archive, Beta Managed Agents Credential, Beta Managed Agents Credential Validation, Beta Managed Agents Credential Validation Status, Beta Managed Agents Deleted Credential, Beta Managed Agents MCP OAuth Auth Response, Beta Managed Agents MCP OAuth Create Params, Beta Managed Agents MCP OAuth Refresh Params (+53 more)
 
 ### Community 378 - "Community 378"
 Cohesion: 0.08
 Nodes (25): Beta Managed Agents Credential, Beta Managed Agents Credential Validation, Beta Managed Agents Credential Validation Status, Beta Managed Agents Deleted Credential, Beta Managed Agents MCP OAuth Auth Response, Beta Managed Agents MCP OAuth Create Params, Beta Managed Agents MCP OAuth Refresh Params, Beta Managed Agents MCP OAuth Refresh Response (+17 more)
 
 ### Community 379 - "Community 379"
-Cohesion: 0.08
-Nodes (25): Beta Managed Agents Credential, Beta Managed Agents Credential Validation, Beta Managed Agents Credential Validation Status, Beta Managed Agents Deleted Credential, Beta Managed Agents MCP OAuth Auth Response, Beta Managed Agents MCP OAuth Create Params, Beta Managed Agents MCP OAuth Refresh Params, Beta Managed Agents MCP OAuth Refresh Response (+17 more)
+Cohesion: 0.04
+Nodes (56): Archive, Beta Managed Agents Credential, Beta Managed Agents Credential Validation, Beta Managed Agents Credential Validation Status, Beta Managed Agents Deleted Credential, Beta Managed Agents MCP OAuth Auth Response, Beta Managed Agents MCP OAuth Create Params, Beta Managed Agents MCP OAuth Refresh Params (+48 more)
 
 ### Community 380 - "Community 380"
 Cohesion: 0.08
@@ -3626,8 +3606,8 @@ Cohesion: 0.10
 Nodes (25): code:ruby (require "anthropic"), Example, Example, Example, Example, Example, Example, Example (+17 more)
 
 ### Community 384 - "Community 384"
-Cohesion: 0.08
-Nodes (25): Beta Managed Agents Credential, Beta Managed Agents Credential Validation, Beta Managed Agents Credential Validation Status, Beta Managed Agents Deleted Credential, Beta Managed Agents MCP OAuth Auth Response, Beta Managed Agents MCP OAuth Create Params, Beta Managed Agents MCP OAuth Refresh Params, Beta Managed Agents MCP OAuth Refresh Response (+17 more)
+Cohesion: 0.03
+Nodes (61): Archive, Beta Managed Agents Credential, Beta Managed Agents Credential Validation, Beta Managed Agents Credential Validation Status, Beta Managed Agents Deleted Credential, Beta Managed Agents MCP OAuth Auth Response, Beta Managed Agents MCP OAuth Create Params, Beta Managed Agents MCP OAuth Refresh Params (+53 more)
 
 ### Community 385 - "Community 385"
 Cohesion: 0.08
@@ -3681,7 +3661,7 @@ Nodes (23): Advanced: Controlling what Gemini sees, code:bash (`@src/components/
 Cohesion: 0.08
 Nodes (8): code:ruby (require "anthropic"), Example, Header Parameters, List, Parameters, Path Parameters, Query Parameters, Returns
 
-### Community 398 - "Skill Packaging & Visual Analysis"
+### Community 398 - "Community 398"
 Cohesion: 0.09
 Nodes (23): Avoid assuming tools are installed, Checklist for effective Skills, Code and scripts, code:block52, code:block53, code:`markdown (## Form layout analysis), code:block55, code:text (bigquery-skill/) (+15 more)
 
@@ -3710,8 +3690,8 @@ Cohesion: 0.11
 Nodes (23): code:ruby (require "anthropic"), Example, Example, Example, Example, Example, Example, Header Parameters (+15 more)
 
 ### Community 405 - "Community 405"
-Cohesion: 0.09
-Nodes (23): code:ruby (require "anthropic"), Example, Example, Example, Example, Example, Header Parameters, List (+15 more)
+Cohesion: 0.06
+Nodes (35): code:ruby (require "anthropic"), Example, Example, Example, Example, Example, Example, Example (+27 more)
 
 ### Community 406 - "Community 406"
 Cohesion: 0.09
@@ -3754,8 +3734,8 @@ Cohesion: 0.09
 Nodes (22): Agent tool behavior, Bash tool behavior, Check which tools are available, code:json ({), code:text (What tools do you have access to?), Configure tools with permission rules and hooks, Edit tool behavior, Enable the PowerShell tool (+14 more)
 
 ### Community 416 - "Community 416"
-Cohesion: 0.09
-Nodes (23): Claude Code does not support 32-bit Windows, Claude Code on Windows requires either Git for Windows (for bash) or PowerShell, Claude Desktop overrides the `claude` command on Windows, code:powershell (Remove-Item -Recurse -Force "$env:USERPROFILE\.claude\downlo), code:text (Setting up Claude Code...), code:bash (sudo fallocate -l 2G /swapfile), code:bash (curl -fsSL https://claude.ai/install.sh | bash), code:json ({) (+15 more)
+Cohesion: 0.08
+Nodes (24): Claude Code does not support 32-bit Windows, Claude Code on Windows requires either Git for Windows (for bash) or PowerShell, Claude Desktop overrides the `claude` command on Windows, code:powershell (Remove-Item -Recurse -Force "$env:USERPROFILE\.claude\downlo), code:text (Setting up Claude Code...), code:bash (sudo fallocate -l 2G /swapfile), code:bash (curl -fsSL https://claude.ai/install.sh | bash), code:json ({) (+16 more)
 
 ### Community 417 - "Community 417"
 Cohesion: 0.09
@@ -3778,8 +3758,8 @@ Cohesion: 0.09
 Nodes (23): Beta Managed Agents Actor, Beta Managed Agents API Actor, Beta Managed Agents Memory Version, Beta Managed Agents Memory Version Operation, Beta Managed Agents Session Actor, Beta Managed Agents User Actor, code:java (package com.anthropic.example;), code:java (package com.anthropic.example;) (+15 more)
 
 ### Community 422 - "Community 422"
-Cohesion: 0.14
-Nodes (23): Archive Session Thread, Agent Custom Tool Use Event, Agent Tool Use Event, User Custom Tool Result Event, User Interrupt Event, User Message Event, User Tool Confirmation Event, Session Event (+15 more)
+Cohesion: 0.16
+Nodes (20): Archive Session Thread, Agent Custom Tool Use Event, Agent Tool Use Event, User Custom Tool Result Event, User Interrupt Event, User Message Event, User Tool Confirmation Event, Session Event (+12 more)
 
 ### Community 423 - "Community 423"
 Cohesion: 0.09
@@ -3855,7 +3835,7 @@ Nodes (20): Accumulate costs across multiple calls, Break down usage per model, 
 
 ### Community 441 - "Community 441"
 Cohesion: 0.09
-Nodes (22): Archive, Body Parameters, code:http (curl https://api.anthropic.com/v1/organizations/workspaces/$), code:http (curl https://api.anthropic.com/v1/organizations/workspaces \), code:http (curl https://api.anthropic.com/v1/organizations/workspaces/$), code:http (curl https://api.anthropic.com/v1/organizations/workspaces/$), Example, Example (+14 more)
+Nodes (22): Archive, Body Parameters, Body Parameters, code:http (curl https://api.anthropic.com/v1/organizations/workspaces \), code:http (curl https://api.anthropic.com/v1/organizations/workspaces/$), code:http (curl https://api.anthropic.com/v1/organizations/workspaces/$), code:http (curl https://api.anthropic.com/v1/organizations/workspaces/$), Create (+14 more)
 
 ### Community 442 - "Community 442"
 Cohesion: 0.09
@@ -3918,8 +3898,8 @@ Cohesion: 0.09
 Nodes (21): Anthropic Beta, Beta, Beta API Error, Beta Authentication Error, Beta Billing Error, Beta Error, Beta Error Response, Beta Gateway Timeout Error (+13 more)
 
 ### Community 457 - "Community 457"
-Cohesion: 0.09
-Nodes (21): Anthropic Beta, Beta, Beta API Error, Beta Authentication Error, Beta Billing Error, Beta Error, Beta Error Response, Beta Gateway Timeout Error (+13 more)
+Cohesion: 0.06
+Nodes (32): Anthropic Beta, Beta, Beta API Error, Beta Authentication Error, Beta Billing Error, Beta Error, Beta Error Response, Beta Gateway Timeout Error (+24 more)
 
 ### Community 458 - "Community 458"
 Cohesion: 0.10
@@ -3933,11 +3913,11 @@ Nodes (20): Automatic session management, Capture the session ID, Choose an appr
 Cohesion: 0.10
 Nodes (20): Build a streaming UI, code:python (from claude_agent_sdk import query, ClaudeAgentOptions), code:python (from claude_agent_sdk import query, ClaudeAgentOptions, Resu), code:typescript (import { query } from "@anthropic-ai/claude-agent-sdk";), code:typescript (import { query } from "@anthropic-ai/claude-agent-sdk";), code:python (@dataclass), code:typescript (type SDKPartialAssistantMessage = {), code:text (StreamEvent (message_start)) (+12 more)
 
-### Community 461 - "Claude API Skill"
+### Community 461 - "Community 461"
 Cohesion: 0.10
 Nodes (20): Claude API skill, code:text (/claude-api), code:bash (npx skills add https://github.com/anthropics/skills --skill ), code:bash (/plugin marketplace add anthropics/skills), code:text (/claude-api migrate this project to claude-opus-4-7), code:text (/claude-api migrate everything under src/ to claude-opus-4-7), code:text (/claude-api managed-agents-onboard), code:text (Build a streaming chat UI with the Claude API in TypeScript) (+12 more)
 
-### Community 462 - "Enterprise Skill Governance"
+### Community 462 - "Community 462"
 Cohesion: 0.10
 Nodes (20): API-based distribution, Cross-surface considerations, Distribution and version control, Evaluating Skills before deployment, Evaluation requirements, Naming and cataloging, Next steps, Organizing Skills at scale (+12 more)
 
@@ -3950,8 +3930,8 @@ Cohesion: 0.12
 Nodes (21): code:ruby (require "anthropic"), Download, Example, Example, Example, Example, Example, Example (+13 more)
 
 ### Community 465 - "Community 465"
-Cohesion: 0.10
-Nodes (21): code:ruby (require "anthropic"), Example, Example, Example, Example, Example, Parameters, Parameters (+13 more)
+Cohesion: 0.06
+Nodes (34): code:ruby (require "anthropic"), Example, Example, Example, Example, Example, Example, Example (+26 more)
 
 ### Community 466 - "Community 466"
 Cohesion: 0.10
@@ -4246,8 +4226,8 @@ Cohesion: 0.11
 Nodes (18): Body Parameters, code:json ([), code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([), code:json ([{"type": "text", "text": "B)"}]), code:http (curl https://api.anthropic.com/v1/messages \), code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([) (+10 more)
 
 ### Community 539 - "Community 539"
-Cohesion: 0.11
-Nodes (18): Beta Managed Agents Agent Params, Beta Managed Agents Branch Checkout, Beta Managed Agents Cache Creation Usage, Beta Managed Agents Commit Checkout, Beta Managed Agents Deleted Session, Beta Managed Agents File Resource Params, Beta Managed Agents GitHub Repository Resource Params, Beta Managed Agents Memory Store Resource Param (+10 more)
+Cohesion: 0.04
+Nodes (50): Archive, Beta Managed Agents Agent Params, Beta Managed Agents Branch Checkout, Beta Managed Agents Cache Creation Usage, Beta Managed Agents Commit Checkout, Beta Managed Agents Deleted Session, Beta Managed Agents File Resource Params, Beta Managed Agents GitHub Repository Resource Params (+42 more)
 
 ### Community 540 - "Community 540"
 Cohesion: 0.11
@@ -4281,17 +4261,17 @@ Nodes (18): Available tools, code:yaml (tools: Agent, Read, Bash), code:yaml (--
 Cohesion: 0.11
 Nodes (17): 403 Forbidden after login, Bedrock, Vertex, or Foundry credentials not loading, code:bash (unset ANTHROPIC_API_KEY), code:bash (export BROWSER="/mnt/c/Program Files/Google/Chrome/Applicati), code:bash (claude auth login), code:bash (aws sts get-caller-identity), code:bash (gcloud auth application-default login), code:bash (az login) (+9 more)
 
-### Community 548 - "Effective Harnesses (Long-Running Agents)"
+### Community 548 - "Community 548"
 Cohesion: 0.19
 Nodes (18): Effective Harnesses for Long-Running Agents, Claude 4 Prompting Guide, Claude Agent SDK, Clean State, Coding Agent, Context Compaction, Feature List, Incremental Progress (+10 more)
 
 ### Community 549 - "Community 549"
-Cohesion: 0.17
-Nodes (18): File Resource, Sessions Resources Add Doc, GitHub Repository Resource, Managed Session, Multiagent Coordinator Topology, Deleted Session Confirmation, Deleted Session Resource Confirmation, Session Thread Created Event (+10 more)
+Cohesion: 0.27
+Nodes (10): File Resource, Sessions Resources Add Doc, GitHub Repository Resource, Managed Session, Deleted Session Confirmation, Deleted Session Resource Confirmation, Memory Store Resource, Session Resource (+2 more)
 
 ### Community 550 - "Community 550"
-Cohesion: 0.19
-Nodes (18): Archive Environment API, Create Environment API, Delete Environment API, Environment, List Environments API, Environment Network Policy, Environment Package Configuration, Retrieve Environment API (+10 more)
+Cohesion: 0.06
+Nodes (61): Archive Environment API, Create Environment API, Delete Environment API, Environment, List Environments API, Environment Network Policy, Environment Package Configuration, Retrieve Environment API (+53 more)
 
 ### Community 551 - "Community 551"
 Cohesion: 0.11
@@ -4314,8 +4294,8 @@ Cohesion: 0.15
 Nodes (17): Ruby Beta Environment Archive API, BetaCloudConfig, BetaEnvironment, BetaPackages, Create Environment API, Environment Networking Policy, BetaEnvironmentDeleteResponse, Delete Environment API (+9 more)
 
 ### Community 556 - "Community 556"
-Cohesion: 0.18
-Nodes (17): Agents List API, BetaUserProfile, BetaUserProfileEnrollmentUrl, Create User Profile, User Profiles Create API, User Profile Enrollment URL, User Profiles Create Enrollment URL API, Enrollment URL (+9 more)
+Cohesion: 0.15
+Nodes (13): code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([), code:json ([), code:json ([) (+5 more)
 
 ### Community 557 - "Community 557"
 Cohesion: 0.12
@@ -4379,7 +4359,7 @@ Nodes (17): Compliance Project Attachments Endpoint, Compliance Artifact Content
 
 ### Community 572 - "Community 572"
 Cohesion: 0.12
-Nodes (17): code:json ([), code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([), code:json ([{"type": "text", "text": "B)"}]), code:java (package com.anthropic.example;), code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([) (+9 more)
+Nodes (16): code:json ([), code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([), code:json ([{"type": "text", "text": "B)"}]), code:java (package com.anthropic.example;), code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([) (+8 more)
 
 ### Community 573 - "Community 573"
 Cohesion: 0.12
@@ -4562,8 +4542,8 @@ Cohesion: 0.12
 Nodes (8): Body Parameters, code:ruby (require "anthropic"), Example, Header Parameters, Parameters, Path Parameters, Returns, Send
 
 ### Community 619 - "Community 619"
-Cohesion: 0.12
-Nodes (16): code:go (package main), code:go (package main), code:go (package main), Events, Example, Example, Example, List (+8 more)
+Cohesion: 0.18
+Nodes (11): code:go (package main), code:go (package main), Events, Example, Example, List, Parameters, Parameters (+3 more)
 
 ### Community 620 - "Community 620"
 Cohesion: 0.12
@@ -4597,7 +4577,7 @@ Nodes (8): Body Parameters, code:ruby (require "anthropic"), Example, Header Par
 Cohesion: 0.12
 Nodes (8): code:ruby (require "anthropic"), Example, Header Parameters, Parameters, Path Parameters, Query Parameters, Retrieve, Returns
 
-### Community 628 - "Agent Skills Overview"
+### Community 628 - "Community 628"
 Cohesion: 0.15
 Nodes (16): Skill authoring best practices, Claude API Skill, Claude API skill, Claude Managed Agents, Skill Routing, Skills for enterprise, Agent Skills, Agent Skills (+8 more)
 
@@ -4634,8 +4614,8 @@ Cohesion: 0.12
 Nodes (16): code:json ([), code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([), code:json ([{"type": "text", "text": "B)"}]), code:ruby (require "anthropic"), code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([) (+8 more)
 
 ### Community 637 - "Community 637"
-Cohesion: 0.12
-Nodes (16): code:ruby (require "anthropic"), code:ruby (require "anthropic"), code:ruby (require "anthropic"), Events, Example, Example, Example, List (+8 more)
+Cohesion: 0.18
+Nodes (11): code:ruby (require "anthropic"), code:ruby (require "anthropic"), Events, Example, Example, List, Parameters, Parameters (+3 more)
 
 ### Community 638 - "Community 638"
 Cohesion: 0.12
@@ -4657,7 +4637,7 @@ Nodes (16): Archive Credential, Archive Vault, Create Credential, Vault Credenti
 Cohesion: 0.12
 Nodes (8): code:ruby (require "anthropic"), Example, Header Parameters, List, Parameters, Path Parameters, Query Parameters, Returns
 
-### Community 643 - "Managing Agent Skills"
+### Community 643 - "Community 643"
 Cohesion: 0.20
 Nodes (16): Auto Memory, Memory Inbox, Gemini CLI Cheatsheet, Creating Agent Skills, skill-creator, Git Worktrees, Headless Mode, Model Steering (+8 more)
 
@@ -4702,12 +4682,12 @@ Cohesion: 0.23
 Nodes (15): Cancel Message Batch Command, Text Completion Resource, Count Message Tokens Command, Count Message Tokens, Create Text Completion Command, Create Message Batch Command, Create Message, Create Message Command (+7 more)
 
 ### Community 654 - "Community 654"
-Cohesion: 0.24
-Nodes (15): Beta Managed Agent, Ruby Beta API, Beta Environment, Beta File Metadata, C# List Models, Beta Memory Store, Ruby Beta Models API, Ruby ModelInfo (+7 more)
+Cohesion: 0.12
+Nodes (26): Beta Managed Agent, Ruby Beta API, Cancel Message Batch Operation, Ruby Text Completion API, C# Text Completion Create Unavailable, Message Batch, Delete Message Batch, Beta Environment (+18 more)
 
 ### Community 655 - "Community 655"
-Cohesion: 0.16
-Nodes (15): BetaManagedAgentsSessionEvent, BetaManagedAgentsUserCustomToolResultEvent, BetaManagedAgentsUserToolConfirmationEvent, Session Events List API Doc, session.status_idle stop_reason.event_ids, Session Events Overview Doc, Session Threads Archive CLI Doc, Session Thread Events List API Doc (+7 more)
+Cohesion: 0.05
+Nodes (64): BetaManagedAgentsAgent, Agents Versions API, Token Counting, Message Creation, BetaModelInfo, BetaModelInfo, Models List API, Model (+56 more)
 
 ### Community 656 - "Community 656"
 Cohesion: 0.13
@@ -4718,8 +4698,8 @@ Cohesion: 0.13
 Nodes (14): Beta headers, code:http (POST /v1/messages), code:bash (curl https://api.anthropic.com/v1/messages \), code:bash (ant beta:messages create \), code:python (from anthropic import Anthropic), code:typescript (import Anthropic from "@anthropic-ai/sdk";), code:http (anthropic-beta: feature1,feature2,feature3), code:json ({) (+6 more)
 
 ### Community 658 - "Community 658"
-Cohesion: 0.46
-Nodes (15): Beta Managed Agents Delete Session Resource, Beta Managed Agents File Resource, Beta Managed Agents GitHub Repository Resource, Beta Managed Agents Memory Store Resource, Beta Managed Agents Session Resource, Domain Types, Domain Types, Domain Types (+7 more)
+Cohesion: 0.15
+Nodes (13): code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([), code:json ([), code:json ([) (+5 more)
 
 ### Community 659 - "Community 659"
 Cohesion: 0.13
@@ -4826,14 +4806,14 @@ Cohesion: 0.13
 Nodes (7): code:ruby (require "anthropic"), Example, Header Parameters, Parameters, Path Parameters, Retrieve Metadata, Returns
 
 ### Community 685 - "Community 685"
-Cohesion: 0.13
-Nodes (14): code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([), code:json ([), code:json ([) (+6 more)
+Cohesion: 0.15
+Nodes (13): code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([), code:json ([), code:json ([) (+5 more)
 
-### Community 686 - "Agent Skills (Addy Osmani)"
+### Community 686 - "Community 686"
 Cohesion: 0.25
 Nodes (15): Agent Skills, Anti-Rationalization Tables, Agent Skills (Addy Osmani), Cursor Planner/Worker/Judge Split, Google Code Review Norms, Markdown Frontmatter Skill, Process over Prose, Skill-Level Progressive Disclosure (+7 more)
 
-### Community 687 - "Harness Engineering (Codex)"
+### Community 687 - "Community 687"
 Cohesion: 0.20
 Nodes (15): Concrete Evidence Signal, Agent-First Development, Harness engineering: leveraging Codex in an agent-first world, Automated Garbage Collection, Codex Agents, Custom Linters and Structural Tests, Explicit Providers for Cross-Cutting Concerns, Agent Feedback Loops (+7 more)
 
@@ -4870,12 +4850,12 @@ Cohesion: 0.13
 Nodes (7): code:ruby (require "anthropic"), Example, Header Parameters, Parameters, Path Parameters, Retrieve, Returns
 
 ### Community 696 - "Community 696"
-Cohesion: 0.28
-Nodes (15): Create Memory, Delete Memory, Deleted Memory, List Memories, Memory, Memories API, Retrieve Memory, Update Memory (+7 more)
+Cohesion: 0.17
+Nodes (11): Events, Example, Header Parameters, Header Parameters, List, Path Parameters, Path Parameters, Query Parameters (+3 more)
 
 ### Community 697 - "Community 697"
-Cohesion: 0.20
-Nodes (15): Delete Memory, Retrieve Memory API, Memory APIs Overview, Memory Versions API Overview, Memory Version Attribution, API Actor, Append-Only Memory History, List Memory Versions API (+7 more)
+Cohesion: 0.18
+Nodes (11): code:python (ContentBlock = TextBlock | ThinkingBlock | ToolUseBlock | To), code:python (@dataclass), code:python (@dataclass), code:python (@dataclass), code:python (@dataclass), Content Block Types, `ContentBlock`, `TextBlock` (+3 more)
 
 ### Community 698 - "Community 698"
 Cohesion: 0.13
@@ -4890,8 +4870,8 @@ Cohesion: 0.13
 Nodes (7): code:ruby (require "anthropic"), Example, Header Parameters, Parameters, Path Parameters, Retrieve, Returns
 
 ### Community 701 - "Community 701"
-Cohesion: 0.13
-Nodes (14): code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([), code:json ([), code:json ([) (+6 more)
+Cohesion: 0.15
+Nodes (13): code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([), code:json ([), code:json ([) (+5 more)
 
 ### Community 702 - "Community 702"
 Cohesion: 0.13
@@ -5009,7 +4989,7 @@ Nodes (13): code:typescript (const myHook: HookCallback = async (input, toolUseI
 Cohesion: 0.14
 Nodes (13): Agent SDK reference - TypeScript, code:bash (npm install @anthropic-ai/claude-agent-sdk), code:typescript (type PermissionUpdate =), code:typescript (type PermissionBehavior = "allow" | "deny" | "ask";), code:typescript (type PermissionUpdateDestination =), code:typescript (type PermissionRuleValue = {), Installation, Permission Types (+5 more)
 
-### Community 731 - "Skill Structure & Naming"
+### Community 731 - "Community 731"
 Cohesion: 0.14
 Nodes (14): Avoid deeply nested references, code:yaml (description: Analyze Excel spreadsheets, create pivot tables), code:yaml (description: Generate descriptive commit messages by analyzi), code:yaml (description: Helps with documents), code:yaml (description: Processes data), code:yaml (description: Does stuff with files), code:markdown (# SKILL.md), code:markdown (# SKILL.md) (+6 more)
 
@@ -5022,8 +5002,8 @@ Cohesion: 0.53
 Nodes (14): Beta Managed Agents Actor, Beta Managed Agents API Actor, Beta Managed Agents Memory Version, Beta Managed Agents Memory Version Operation, Beta Managed Agents Session Actor, Beta Managed Agents User Actor, Domain Types, Domain Types (+6 more)
 
 ### Community 734 - "Community 734"
-Cohesion: 0.53
-Nodes (14): Beta Managed Agents Session Thread, Beta Managed Agents Session Thread Agent, Beta Managed Agents Session Thread Stats, Beta Managed Agents Session Thread Status, Beta Managed Agents Session Thread Usage, Beta Managed Agents Stream Session Thread Events, Domain Types, Domain Types (+6 more)
+Cohesion: 0.18
+Nodes (11): code:bash (curl https://api.anthropic.com/v1/messages \), code:bash (ant messages create --stream --format jsonl <<'YAML'), code:python (import anthropic), code:typescript (import Anthropic from "@anthropic-ai/sdk";), code:csharp (using System;), code:go (package main), code:java (import com.anthropic.client.AnthropicClient;), code:php (<?php) (+3 more)
 
 ### Community 735 - "Community 735"
 Cohesion: 0.14
@@ -5125,7 +5105,7 @@ Nodes (13): Confirmation prompts, Execute shell commands, How to automate comple
 Cohesion: 0.14
 Nodes (14): code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([), code:json ([), code:json ([) (+6 more)
 
-### Community 760 - "Skill Evaluation & Iteration"
+### Community 760 - "Community 760"
 Cohesion: 0.15
 Nodes (13): [Analysis Title], Anti-patterns to avoid, Avoid offering too many options, Avoid Windows-style paths, Build evaluations first, code:json ({), code:`markdown (**Bad example: Too many choices** (confusing):), code:block44 (+5 more)
 
@@ -5134,12 +5114,12 @@ Cohesion: 0.15
 Nodes (12): Admin, API Keys, code:http (curl https://api.anthropic.com/v1/organizations/api_keys/$AP), code:http (curl https://api.anthropic.com/v1/organizations/api_keys \), Example, Example, List, Path Parameters (+4 more)
 
 ### Community 762 - "Community 762"
-Cohesion: 0.15
-Nodes (13): Body Parameters, code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([), code:json ([) (+5 more)
+Cohesion: 0.27
+Nodes (11): Multiagent Coordinator Topology, Session Status Idle Event, Session Thread Created Event, User Custom Tool Result Event, User Tool Confirmation Event, Model Info, List Session Threads, Managed Agent (+3 more)
 
 ### Community 763 - "Community 763"
-Cohesion: 0.15
-Nodes (13): Body Parameters, code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([), code:json ([) (+5 more)
+Cohesion: 0.13
+Nodes (14): Body Parameters, code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([), code:json ([) (+6 more)
 
 ### Community 764 - "Community 764"
 Cohesion: 0.15
@@ -5193,7 +5173,7 @@ Nodes (13): code:json ([{"role": "user", "content": "Hello, Claude"}]), code:jso
 Cohesion: 0.15
 Nodes (13): 1. macOS Seatbelt (macOS only), 2. Container-based (Docker/Podman), 3. Windows Native Sandbox (Windows only), 4. gVisor / runsc (Linux only), 5. LXC/LXD (Linux only, experimental), code:bash (BUILD_SANDBOX=1 GEMINI_SANDBOX=docker gemini -p "run my cust), code:powershell (icacls "C:\path\to\dir" /setintegritylevel Medium), code:bash (# Initialize LXD (first time only)) (+5 more)
 
-### Community 777 - "Managing Agent Skills (Gemini CLI)"
+### Community 777 - "Community 777"
 Cohesion: 0.15
 Nodes (12): code:bash (gemini skills install https://github.com/user/my-awesome-ski), code:bash (gemini skills link ./path/to/my-skill), code:bash (gemini skills uninstall <name>), Discovery tiers, In-session management, Install a skill, Link for development, Managing Agent Skills (+4 more)
 
@@ -5254,24 +5234,24 @@ Cohesion: 0.15
 Nodes (13): Check directory permissions, Check network connectivity, code:bash (curl -sI https://downloads.claude.ai/claude-code-releases/la), code:bash (export HTTP_PROXY=http://proxy.example.com:8080), code:bash (test -w ~/.local/bin && echo "writable" || echo "not writabl), code:bash (sudo mkdir -p ~/.local/bin), code:bash (ls -la "$(command -v claude)"), code:powershell (Get-Command claude | Select-Object Source) (+5 more)
 
 ### Community 792 - "Community 792"
-Cohesion: 0.15
-Nodes (13): code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([), code:json ([), code:json ([) (+5 more)
+Cohesion: 0.14
+Nodes (14): code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([), code:json ([), code:json ([) (+6 more)
 
 ### Community 793 - "Community 793"
-Cohesion: 0.19
-Nodes (13): Archive Memory Store, Create Memory Store, List Memory Stores, Retrieve Memory Store, Memory Store, Update Memory Store, Create User Profile, Create Enrollment URL (+5 more)
+Cohesion: 0.18
+Nodes (11): code:csharp (EventListParams parameters = new()), code:csharp (EventStreamParams parameters = new()), Events, Example, Example, List, Parameters, Parameters (+3 more)
 
 ### Community 794 - "Community 794"
 Cohesion: 0.15
 Nodes (12): Before the 4.6 generation, code:text (claude-{name}-{major}-{minor}), code:text (anthropic.claude-{name}-{major}-{minor}), code:text (claude-{name}-{major}-{minor}-{YYYYMMDD}), code:text (anthropic.claude-{name}-{major}-{minor}-{YYYYMMDD}-v1:0), code:text (claude-{name}-{major}-{minor}@{YYYYMMDD}), Current model IDs, Dateless IDs are pinned snapshots (+4 more)
 
 ### Community 795 - "Community 795"
-Cohesion: 0.15
-Nodes (13): code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([), code:json ([), code:json ([) (+5 more)
+Cohesion: 0.18
+Nodes (11): code:go (package main), code:go (package main), Events, Example, Example, List, Parameters, Parameters (+3 more)
 
 ### Community 796 - "Community 796"
-Cohesion: 0.15
-Nodes (13): code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([), code:json ([), code:json ([) (+5 more)
+Cohesion: 0.13
+Nodes (14): code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([), code:json ([), code:json ([) (+6 more)
 
 ### Community 797 - "Community 797"
 Cohesion: 0.24
@@ -5305,11 +5285,11 @@ Nodes (12): code:typescript (type McpServerConfig =), code:typescript (type McpS
 Cohesion: 0.17
 Nodes (12): `BaseHookInput`, code:typescript (type BaseHookInput = {), code:typescript (type SessionStartHookInput = BaseHookInput & {), code:typescript (type SetupHookInput = BaseHookInput & {), code:typescript (type TaskCompletedHookInput = BaseHookInput & {), code:typescript (type ConfigChangeHookInput = BaseHookInput & {), code:typescript (type WorktreeRemoveHookInput = BaseHookInput & {), `ConfigChangeHookInput` (+4 more)
 
-### Community 805 - "Progressive Disclosure Patterns"
+### Community 805 - "Community 805"
 Cohesion: 0.17
 Nodes (12): code:text (pdf/), code:`markdown (---), code:block17, code:text (bigquery-skill/), code:`markdown (# BigQuery Data Analysis), code:block20, code:markdown (# DOCX Processing), Pattern 1: High-level guide with references (+4 more)
 
-### Community 806 - "Skill Authoring Core Principles"
+### Community 806 - "Community 806"
 Cohesion: 0.17
 Nodes (12): code:`markdown (## Extract PDF text), code:block2, code:markdown (## Extract PDF text), code:markdown (## Code review process), code:`markdown (## Generate report), code:block6, code:`markdown (## Database migration), code:block8 (+4 more)
 
@@ -5322,12 +5302,12 @@ Cohesion: 0.30
 Nodes (12): Batch Processing User Guide, Cancel Message Batch, Batch Message Request, Create Message Batch, Messages API, Models Overview, Delete Message Batch, List Message Batches (+4 more)
 
 ### Community 809 - "Community 809"
-Cohesion: 0.27
-Nodes (12): ant CLI, Migration Guidance, Text Completions API, C# SDK, IChatClient, Go SDK, Java SDK, Token Count API (+4 more)
+Cohesion: 0.15
+Nodes (20): ant CLI, Completions API, Legacy Text Completion, Migration Guidance, Text Completions API, C# SDK, IChatClient, Go SDK (+12 more)
 
 ### Community 810 - "Community 810"
-Cohesion: 0.17
-Nodes (12): Beta Managed Agents Conflict Error, Beta Managed Agents Content Sha256 Precondition, Beta Managed Agents Deleted Memory, Beta Managed Agents Error, Beta Managed Agents Memory, Beta Managed Agents Memory List Item, Beta Managed Agents Memory Path Conflict Error, Beta Managed Agents Memory Precondition Failed Error (+4 more)
+Cohesion: 0.06
+Nodes (34): Beta Managed Agents Conflict Error, Beta Managed Agents Content Sha256 Precondition, Beta Managed Agents Deleted Memory, Beta Managed Agents Error, Beta Managed Agents Memory, Beta Managed Agents Memory List Item, Beta Managed Agents Memory Path Conflict Error, Beta Managed Agents Memory Precondition Failed Error (+26 more)
 
 ### Community 811 - "Community 811"
 Cohesion: 0.17
@@ -5462,8 +5442,8 @@ Cohesion: 0.17
 Nodes (12): Accessing raw Response data (e.g., headers), Advanced usage, code:typescript (const client = new Anthropic();), code:typescript (import fetch from "my-fetch";), code:typescript (import Anthropic from "@anthropic-ai/sdk";), code:typescript (import Anthropic from "@anthropic-ai/sdk";), code:typescript (import Anthropic from "@anthropic-ai/sdk";), code:typescript (import Anthropic from "@anthropic-ai/sdk";) (+4 more)
 
 ### Community 844 - "Community 844"
-Cohesion: 0.33
-Nodes (12): Skill, Create Skill, Get Skill, Retrieve Skill Version Operation, Skill Upload Bundle, Upload File, Create Skill Version, Delete Skill Version (+4 more)
+Cohesion: 0.38
+Nodes (11): Skill, Create Skill, Get Skill, Skill Upload Bundle, Upload File, Create Skill Version, Delete Skill Version, List Skill Versions (+3 more)
 
 ### Community 845 - "Community 845"
 Cohesion: 0.36
@@ -5614,8 +5594,8 @@ Cohesion: 0.18
 Nodes (10): code:python (from pydantic import BaseModel), code:typescript (import Anthropic from "@anthropic-ai/sdk";), code:csharp (using System.Text.Json;), code:go (package main), code:java (import com.anthropic.client.AnthropicClient;), code:php (<?php), code:ruby (require "anthropic"), How SDK transformation works (+2 more)
 
 ### Community 882 - "Community 882"
-Cohesion: 0.18
-Nodes (11): code:cli (ant beta:sessions:events send \), code:cli (ant beta:sessions:events stream \), Events, Example, Example, Parameters, Parameters, Returns (+3 more)
+Cohesion: 0.12
+Nodes (16): code:cli (ant beta:sessions:events list \), code:cli (ant beta:sessions:events send \), code:cli (ant beta:sessions:events stream \), Events, Example, Example, Example, List (+8 more)
 
 ### Community 883 - "Community 883"
 Cohesion: 0.18
@@ -5638,8 +5618,8 @@ Cohesion: 0.18
 Nodes (11): Chat Delete Response, Chat List Response, Chat Messages Response, Chats, code:http (curl https://api.anthropic.com/v1/compliance/apps/chats/$CLA), Delete, Domain Types, Example (+3 more)
 
 ### Community 888 - "Community 888"
-Cohesion: 0.18
-Nodes (11): Beta Deleted Message Batch, Beta Message Batch, Beta Message Batch Canceled Result, Beta Message Batch Errored Result, Beta Message Batch Expired Result, Beta Message Batch Individual Response, Beta Message Batch Request Counts, code:json ([{"type": "text", "text": "Hi, I'm Claude."}]) (+3 more)
+Cohesion: 0.11
+Nodes (19): Beta Deleted Message Batch, Beta Message Batch, Beta Message Batch Canceled Result, Beta Message Batch Errored Result, Beta Message Batch Expired Result, Beta Message Batch Individual Response, Beta Message Batch Request Counts, Beta Message Batch Result (+11 more)
 
 ### Community 889 - "Community 889"
 Cohesion: 0.18
@@ -5686,8 +5666,8 @@ Cohesion: 0.18
 Nodes (10): code:text (/ultrareview), code:text (/ultrareview 1234), code:bash (claude ultrareview), Find bugs with ultrareview, How ultrareview compares to /review, Pricing and free runs, Related resources, Run ultrareview from the CLI (+2 more)
 
 ### Community 900 - "Community 900"
-Cohesion: 0.18
-Nodes (11): Beta Deleted Message Batch, Beta Message Batch, Beta Message Batch Canceled Result, Beta Message Batch Errored Result, Beta Message Batch Expired Result, Beta Message Batch Individual Response, Beta Message Batch Request Counts, code:json ([{"type": "text", "text": "Hi, I'm Claude."}]) (+3 more)
+Cohesion: 0.11
+Nodes (19): Beta Deleted Message Batch, Beta Message Batch, Beta Message Batch Canceled Result, Beta Message Batch Errored Result, Beta Message Batch Expired Result, Beta Message Batch Individual Response, Beta Message Batch Request Counts, Beta Message Batch Result (+11 more)
 
 ### Community 901 - "Community 901"
 Cohesion: 0.18
@@ -5742,8 +5722,8 @@ Cohesion: 0.18
 Nodes (11): Track team usage with analytics, DORA metrics, Claude Code analytics dashboard, Desktop Code tab, Get started with the desktop app, Schedule recurring tasks in Claude Code Desktop, Desktop scheduled tasks, Claude GitHub App (+3 more)
 
 ### Community 914 - "Community 914"
-Cohesion: 0.18
-Nodes (11): Beta Deleted Message Batch, Beta Message Batch, Beta Message Batch Canceled Result, Beta Message Batch Errored Result, Beta Message Batch Expired Result, Beta Message Batch Individual Response, Beta Message Batch Request Counts, code:json ([{"type": "text", "text": "Hi, I'm Claude."}]) (+3 more)
+Cohesion: 0.11
+Nodes (19): Beta Deleted Message Batch, Beta Message Batch, Beta Message Batch Canceled Result, Beta Message Batch Errored Result, Beta Message Batch Expired Result, Beta Message Batch Individual Response, Beta Message Batch Request Counts, Beta Message Batch Result (+11 more)
 
 ### Community 915 - "Community 915"
 Cohesion: 0.18
@@ -5754,8 +5734,8 @@ Cohesion: 0.22
 Nodes (11): Release Patch 3 Release, scripts/get-release-version.js, scripts/releasing/patch-comment.js, .github/actions/publish-release, .github/actions/run-tests, .github/actions/npm-auth-token, .github/actions/tag-npm-release, Release Rollback (+3 more)
 
 ### Community 917 - "Community 917"
-Cohesion: 0.29
-Nodes (11): CLI Beta Environments, CLI Beta Webhooks, Delete (DELETE /v1/environments/{environment_id}), List (GET /v1/environments), Retrieve (GET /v1/environments/{environment_id}), Create (POST /v1/environments), Update (POST /v1/environments/{environment_id}), Archive (POST /v1/environments/{environment_id}/archive) (+3 more)
+Cohesion: 0.43
+Nodes (8): CLI Beta Environments, Delete (DELETE /v1/environments/{environment_id}), List (GET /v1/environments), Retrieve (GET /v1/environments/{environment_id}), Create (POST /v1/environments), Update (POST /v1/environments/{environment_id}), Archive (POST /v1/environments/{environment_id}/archive), Environments API
 
 ### Community 918 - "Community 918"
 Cohesion: 0.31
@@ -5819,7 +5799,7 @@ Nodes (11): Beta Deleted Message Batch, Beta Message Batch, Beta Message Batch C
 
 ### Community 933 - "Community 933"
 Cohesion: 0.18
-Nodes (11): code:typescript (import Anthropic from '@anthropic-ai/sdk';), code:typescript (import Anthropic from '@anthropic-ai/sdk';), Events, Example, Example, List, Parameters, Parameters (+3 more)
+Nodes (11): code:java (package com.anthropic.example;), code:java (package com.anthropic.example;), Events, Example, Example, List, Parameters, Parameters (+3 more)
 
 ### Community 934 - "Community 934"
 Cohesion: 0.18
@@ -5857,7 +5837,7 @@ Nodes (9): code:typescript (import { query } from "@anthropic-ai/claude-agent-sd
 Cohesion: 0.20
 Nodes (9): code:typescript (import { query } from "@anthropic-ai/claude-agent-sdk";), code:python (import asyncio), code:text (You can search for tools to interact with Slack, GitHub, and), Configure tool search, How tool search works, Limits, Optimize tool discovery, Related documentation (+1 more)
 
-### Community 943 - "Skills with Executable Code"
+### Community 943 - "Community 943"
 Cohesion: 0.20
 Nodes (10): Advanced: Skills with executable code, code:python (def process_file(path):), code:python (def process_file(path):), code:python (# HTTP requests typically complete within 30 seconds), code:python (TIMEOUT = 47  # Why 47?), code:`markdown (## Utility scripts), code:block50, code:block51 (+2 more)
 
@@ -5879,7 +5859,7 @@ Nodes (9): Client-side tools, Context management, Feature availability, Features
 
 ### Community 948 - "Community 948"
 Cohesion: 0.20
-Nodes (9): code:bash (curl https://api.anthropic.com/v1/messages \), code:bash (ant messages create <<'YAML'), code:typescript (const response = await client.messages.create({), code:csharp (using Anthropic;), code:go (package main), code:java (import com.anthropic.client.AnthropicClient;), code:php (<?php), code:ruby (require "anthropic") (+1 more)
+Nodes (9): code:bash (curl https://api.anthropic.com/v1/messages \), code:bash (ant beta:messages create --beta interleaved-thinking-2025-05), code:typescript (const response = await client.beta.messages.create({), code:csharp (using Anthropic;), code:go (package main), code:java (import com.anthropic.client.AnthropicClient;), code:php (<?php), code:ruby (require "anthropic") (+1 more)
 
 ### Community 949 - "Community 949"
 Cohesion: 0.20
@@ -6085,7 +6065,7 @@ Nodes (10): code:powershell (claude --version), code:batch (echo %PATH% | findst
 Cohesion: 0.20
 Nodes (9): code:block1 ("), code:go (package main), Completion, Completions, Create, Domain Types, Example, Parameters (+1 more)
 
-### Community 1001 - "Agent Skills SDLC"
+### Community 1001 - "Community 1001"
 Cohesion: 0.20
 Nodes (10): Amazon Working-Backwards Memo and Bar Raiser, /build Build Phase, /code-simplify Cross-Cutting Skill, /spec Define Phase, Google Engineering Practices, /plan Plan Phase, /review Review Phase, Agent Skills SDLC (+2 more)
 
@@ -6345,15 +6325,15 @@ Nodes (8): Basic file operations (using query), code:python (from claude_agent_s
 Cohesion: 0.22
 Nodes (8): code:typescript (type HookEvent =), code:typescript (interface HookCallbackMatcher {), code:typescript (type HookInput =), Hook Types, `HookCallback`, `HookCallbackMatcher`, `HookEvent`, `HookInput`
 
-### Community 1067 - "Skill Authoring Best Practices"
+### Community 1067 - "Community 1067"
 Cohesion: 0.22
 Nodes (9): Avoid time-sensitive information, code:markdown (If you're doing this before August 2025, use the old API.), code:markdown (## Current method), code:`markdown (## Report structure), Common patterns, Content guidelines, Skill authoring best practices, Template pattern (+1 more)
 
-### Community 1068 - "Skill Pattern Recommendations"
+### Community 1068 - "Community 1068"
 Cohesion: 0.22
 Nodes (9): code:block36, code:`markdown (## Commit message format), code:block38, code:block39, code:block40, code:markdown (## Document modification workflow), Conditional workflow pattern, Examples pattern (+1 more)
 
-### Community 1069 - "Workflows & Feedback Loops"
+### Community 1069 - "Community 1069"
 Cohesion: 0.22
 Nodes (9): code:`markdown (## Research synthesis workflow), code:block26, code:`markdown (## PDF form filling workflow), code:block28, code:markdown (## Content review process), code:markdown (## Document editing process), Implement feedback loops, Use workflows for complex tasks (+1 more)
 
@@ -6387,7 +6367,7 @@ Nodes (9): Advanced usage, Cache control, Citation control, code:python (from an
 
 ### Community 1077 - "Community 1077"
 Cohesion: 0.22
-Nodes (9): code:python (import anthropic), code:typescript (import Anthropic from "@anthropic-ai/sdk";), code:csharp (using System;), code:go (package main), code:java (import com.anthropic.client.AnthropicClient;), code:php (<?php), code:ruby (require "anthropic"), code:bash (# The ant CLI's --stream flag emits one event per line and d) (+1 more)
+Nodes (9): code:bash (ant messages create --stream --format jsonl \), code:python (import anthropic), code:typescript (import Anthropic from "@anthropic-ai/sdk";), code:csharp (using Anthropic;), code:go (package main), code:java (import com.anthropic.client.AnthropicClient;), code:php (<?php), code:ruby (require "anthropic") (+1 more)
 
 ### Community 1078 - "Community 1078"
 Cohesion: 0.22
@@ -6478,8 +6458,8 @@ Cohesion: 0.28
 Nodes (9): Credential, Archive Credential Doc, Create Credential Doc, Delete Credential Doc, List Credentials Doc, MCP OAuth Validate Credential Doc, Update Credential Doc, MCP Server (+1 more)
 
 ### Community 1101 - "Community 1101"
-Cohesion: 0.22
-Nodes (9): code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([), code:json ([), code:json ([) (+1 more)
+Cohesion: 0.15
+Nodes (13): code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([), code:json ([), code:json ([) (+5 more)
 
 ### Community 1102 - "Community 1102"
 Cohesion: 0.22
@@ -6530,8 +6510,8 @@ Cohesion: 0.22
 Nodes (8): Choose where to execute, code:block1 (/ultraplan migrate the auth service from sessions to JWTs), Execute on the web, Launch ultraplan from the CLI, Plan in the cloud with ultraplan, Related resources, Review and revise the plan in your browser, Send the plan back to your terminal
 
 ### Community 1114 - "Community 1114"
-Cohesion: 0.22
-Nodes (9): code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([), code:json ([), code:json ([) (+1 more)
+Cohesion: 0.05
+Nodes (42): Batches, Cancel, code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([) (+34 more)
 
 ### Community 1115 - "Community 1115"
 Cohesion: 0.22
@@ -6558,8 +6538,8 @@ Cohesion: 0.22
 Nodes (9): Body Parameters, code:ruby (require "anthropic"), Create, Example, Header Parameters, Parameters, Path Parameters, Query Parameters (+1 more)
 
 ### Community 1123 - "Community 1123"
-Cohesion: 0.22
-Nodes (9): code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([), code:json ([), code:json ([) (+1 more)
+Cohesion: 0.05
+Nodes (42): Batches, Cancel, code:json ([{"role": "user", "content": "Hello, Claude"}]), code:json ([), code:json ([), code:json ({"role": "user", "content": "Hello, Claude"}), code:json ({"role": "user", "content": [{"type": "text", "text": "Hello), code:json ([) (+34 more)
 
 ### Community 1124 - "Community 1124"
 Cohesion: 0.22
@@ -6582,8 +6562,8 @@ Cohesion: 0.22
 Nodes (9): Annotating tool classes, Calling tools, code:java (import com.fasterxml.jackson.annotation.JsonClassDescription), code:java (import com.anthropic.client.AnthropicClient;), code:java (MessageCreateParams.Builder createParamsBuilder = MessageCre), Defining tools with annotations, Local tool JSON schema validation, Tool name conversion (+1 more)
 
 ### Community 1131 - "Community 1131"
-Cohesion: 0.25
-Nodes (9): Delete File, Delete Skill, Delete Skill Version Operation, File Content, Download File, File Download Response, Deleted File Marker, File Metadata (+1 more)
+Cohesion: 0.29
+Nodes (8): Delete File, Delete Skill, Delete Skill Version Operation, File Content, Download File, Deleted File Marker, File Metadata, Get File Metadata
 
 ### Community 1132 - "Community 1132"
 Cohesion: 0.33
@@ -6650,8 +6630,8 @@ Cohesion: 0.25
 Nodes (7): code:python (class McpStdioServerConfig(TypedDict):), code:python (class McpSSEServerConfig(TypedDict):), code:python (class McpHttpServerConfig(TypedDict):), `McpHttpServerConfig`, `McpServerConfig`, `McpSSEServerConfig`, `McpStdioServerConfig`
 
 ### Community 1148 - "Community 1148"
-Cohesion: 0.39
-Nodes (8): Count Tokens, Create Message Batch, Create Message, Legacy Text Completion, Message, List Models, Get Model, ModelInfo
+Cohesion: 0.25
+Nodes (8): code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([), code:json ([{"type": "text", "text": "B)"}]), code:http (curl https://api.anthropic.com/v1/messages/batches/$MESSAGE_), Example, Path Parameters, Results, Returns
 
 ### Community 1149 - "Community 1149"
 Cohesion: 0.25
@@ -6663,7 +6643,7 @@ Nodes (8): code:http (curl https://api.anthropic.com/v1/agents/$AGENT_ID/version
 
 ### Community 1151 - "Community 1151"
 Cohesion: 0.25
-Nodes (8): code:http (curl https://api.anthropic.com/v1/memory_stores/$MEMORY_STOR), Example, Header Parameters, List, Memories, Path Parameters, Query Parameters, Returns
+Nodes (8): code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([), code:json ([{"type": "text", "text": "B)"}]), code:java (package com.anthropic.example;), Example, Parameters, Results, Returns
 
 ### Community 1152 - "Community 1152"
 Cohesion: 0.25
@@ -6750,8 +6730,8 @@ Cohesion: 0.25
 Nodes (8): Artifact Content Response, Artifacts, code:http (curl https://api.anthropic.com/v1/compliance/apps/artifacts/), Content, Domain Types, Example, Header Parameters, Path Parameters
 
 ### Community 1173 - "Community 1173"
-Cohesion: 0.25
-Nodes (8): code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([), code:json ([{"type": "text", "text": "B)"}]), code:csharp (BatchResultsParams parameters = new() { MessageBatchID = "me), Example, Parameters, Results, Returns
+Cohesion: 0.07
+Nodes (29): Batches, Cancel, code:csharp (BatchRetrieveParams parameters = new() { MessageBatchID = "m), code:csharp (BatchListParams parameters = new();), code:csharp (BatchCancelParams parameters = new() { MessageBatchID = "mes), code:csharp (BatchDeleteParams parameters = new() { MessageBatchID = "mes), code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([) (+21 more)
 
 ### Community 1174 - "Community 1174"
 Cohesion: 0.25
@@ -6822,8 +6802,8 @@ Cohesion: 0.25
 Nodes (8): code:bash (# Use a custom 5% threshold), code:json ({), code:json ({), Configure tool search, Exempt a server from deferral, For MCP server authors, How it works, Scale with MCP Tool Search
 
 ### Community 1191 - "Community 1191"
-Cohesion: 0.25
-Nodes (8): Agent (subagents), code:json ({), code:json ({), MCP, PowerShell, Read and Edit, Tool-specific permission rules, WebFetch
+Cohesion: 0.17
+Nodes (12): Agent (subagents), Bash, code:json ({), code:json ({), Compound commands, MCP, PowerShell, Process wrappers (+4 more)
 
 ### Community 1192 - "Community 1192"
 Cohesion: 0.25
@@ -6858,20 +6838,20 @@ Cohesion: 0.32
 Nodes (8): Create Enrollment URL Command, Create User Profile Command, Enrollment URL, List User Profiles Command, Retrieve User Profile Command, Trust Grant, Update User Profile Command, User Profile
 
 ### Community 1200 - "Community 1200"
-Cohesion: 0.25
-Nodes (8): code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([), code:json ([{"type": "text", "text": "B)"}]), code:go (package main), Example, Parameters, Results, Returns
+Cohesion: 0.29
+Nodes (7): Archive, code:http (curl https://api.anthropic.com/v1/vaults/$VAULT_ID/credentia), Credentials, Example, Header Parameters, Path Parameters, Returns
 
 ### Community 1201 - "Community 1201"
-Cohesion: 0.25
-Nodes (8): code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([), code:json ([{"type": "text", "text": "B)"}]), code:go (package main), Example, Parameters, Results, Returns
+Cohesion: 0.29
+Nodes (7): Body Parameters, code:http (curl https://api.anthropic.com/v1/vaults/$VAULT_ID/credentia), Example, Header Parameters, Path Parameters, Returns, Update
 
-### Community 1202 - "Agent Observability"
+### Community 1202 - "Community 1202"
 Cohesion: 0.25
 Nodes (8): Browser Automation Testing, claude.ai Clone Example, End-to-End User-Visible Testing, Puppeteer MCP Server, Chrome DevTools, Observability for Agents, PromQL and LogQL, Startup Under 800ms SLO
 
 ### Community 1203 - "Community 1203"
-Cohesion: 0.25
-Nodes (8): code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([), code:json ([{"type": "text", "text": "B)"}]), code:java (package com.anthropic.example;), Example, Parameters, Results, Returns
+Cohesion: 0.33
+Nodes (5): code:python (from claude_agent_sdk import tool, create_sdk_mcp_server), `create_sdk_mcp_server()`, Example, Parameters, Returns
 
 ### Community 1204 - "Community 1204"
 Cohesion: 0.25
@@ -6898,8 +6878,8 @@ Cohesion: 0.25
 Nodes (6): code:text (When you're deciding how to approach a problem, choose an ap), code:text (After receiving tool results, carefully reflect on their qua), code:text (Extended thinking adds latency and should only be used when ), Leverage thinking & interleaved thinking capabilities, Overthinking and excessive thoroughness, Thinking and reasoning
 
 ### Community 1210 - "Community 1210"
-Cohesion: 0.25
-Nodes (8): code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([), code:json ([{"type": "text", "text": "B)"}]), code:python (import os), Example, Parameters, Results, Returns
+Cohesion: 0.33
+Nodes (5): code:python (from claude_agent_sdk import list_sessions), Example, `list_sessions()`, Parameters, Return type: `SDKSessionInfo`
 
 ### Community 1211 - "Community 1211"
 Cohesion: 0.25
@@ -6914,8 +6894,8 @@ Cohesion: 0.25
 Nodes (8): code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([), code:json ([{"type": "text", "text": "B)"}]), code:ruby (require "anthropic"), Example, Parameters, Results, Returns
 
 ### Community 1214 - "Community 1214"
-Cohesion: 0.25
-Nodes (8): code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([), code:json ([{"type": "text", "text": "B)"}]), code:ruby (require "anthropic"), Example, Parameters, Results, Returns
+Cohesion: 0.33
+Nodes (6): code:http (curl https://api.anthropic.com/v1/vaults/$VAULT_ID/credentia), Delete, Example, Header Parameters, Path Parameters, Returns
 
 ### Community 1215 - "Community 1215"
 Cohesion: 0.25
@@ -6959,7 +6939,7 @@ Nodes (7): Accessing the Evaluate Feature, code:text (In this task, you will gen
 
 ### Community 1225 - "Community 1225"
 Cohesion: 0.25
-Nodes (8): Build a custom computer use environment, code:python (screen_width, screen_height = 1512, 982), code:typescript (const screenWidth = 1512;), code:python (import time), code:python (display_width, display_height = 1024, 768), code:python (import logging), Follow implementation best practices, Handle coordinate scaling for higher resolutions
+Nodes (8): Build a custom computer use environment, code:json ({), code:json ({), code:json ({), code:python (screen_width, screen_height = 1512, 982), code:typescript (const screenWidth = 1512;), Handle coordinate scaling for higher resolutions, Handle errors
 
 ### Community 1226 - "Community 1226"
 Cohesion: 0.25
@@ -6997,7 +6977,7 @@ Nodes (6): code:http (curl https://api.anthropic.com/v1/compliance/activities \)
 Cohesion: 0.29
 Nodes (6): Available hooks, code:python (import asyncio), code:typescript (import { query, HookCallback, PreToolUseHookInput } from "@a), How hooks work, Intercept and control agent behavior with hooks, Related resources
 
-### Community 1235 - "Skill Best Practices Doc"
+### Community 1235 - "Community 1235"
 Cohesion: 0.29
 Nodes (6): [Analysis Title], code:block34, code:`markdown (## Report structure), Executive summary, Key findings, Recommendations
 
@@ -7026,20 +7006,20 @@ Cohesion: 0.29
 Nodes (7): Body Parameters, code:http (curl https://api.anthropic.com/v1/agents/$AGENT_ID \), Example, Header Parameters, Path Parameters, Returns, Update
 
 ### Community 1242 - "Community 1242"
-Cohesion: 0.29
-Nodes (7): code:http (curl https://api.anthropic.com/v1/memory_stores/$MEMORY_STOR), Example, Header Parameters, Path Parameters, Query Parameters, Retrieve, Returns
+Cohesion: 0.33
+Nodes (6): code:http (curl https://api.anthropic.com/v1/vaults/$VAULT_ID/credentia), Example, Header Parameters, MCP OAuth Validate, Path Parameters, Returns
 
 ### Community 1243 - "Community 1243"
-Cohesion: 0.29
-Nodes (7): code:http (curl https://api.anthropic.com/v1/memory_stores/$MEMORY_STOR), Delete, Example, Header Parameters, Path Parameters, Query Parameters, Returns
+Cohesion: 0.33
+Nodes (6): code:http (curl https://api.anthropic.com/v1/vaults/$VAULT_ID/credentia), Example, Header Parameters, Path Parameters, Retrieve, Returns
 
 ### Community 1244 - "Community 1244"
-Cohesion: 0.29
-Nodes (7): Archive, code:http (curl https://api.anthropic.com/v1/sessions/$SESSION_ID/archi), Example, Header Parameters, Path Parameters, Returns, Sessions
+Cohesion: 0.33
+Nodes (6): Archive, code:cli (ant beta:vaults:credentials archive \), Credentials, Example, Parameters, Returns
 
 ### Community 1245 - "Community 1245"
-Cohesion: 0.29
-Nodes (7): Body Parameters, code:http (curl https://api.anthropic.com/v1/sessions/$SESSION_ID \), Example, Header Parameters, Path Parameters, Returns, Update
+Cohesion: 0.33
+Nodes (6): Archive, code:csharp (CredentialArchiveParams parameters = new()), Credentials, Example, Parameters, Returns
 
 ### Community 1246 - "Community 1246"
 Cohesion: 0.29
@@ -7394,8 +7374,8 @@ Cohesion: 0.33
 Nodes (6): Allow MCP tools, code:typescript (const _ = {), code:typescript (for await (const message of query({ prompt: "...", options }), Discover available tools, Grant access with allowedTools, Tool naming convention
 
 ### Community 1334 - "Community 1334"
-Cohesion: 0.33
-Nodes (5): code:python (from claude_agent_sdk import list_sessions, get_session_mess), Example, `get_session_messages()`, Parameters, Return type: `SessionMessage`
+Cohesion: 0.40
+Nodes (5): code:http (curl https://api.anthropic.com/v1/organizations/workspaces \), Example, List, Query Parameters, Returns
 
 ### Community 1335 - "Community 1335"
 Cohesion: 0.33
@@ -7419,7 +7399,7 @@ Nodes (6): code:json ({), code:json ({), Common migration patterns, Key changes,
 
 ### Community 1340 - "Community 1340"
 Cohesion: 0.40
-Nodes (6): MCP server, MCP connector, Claude Code settings, Skills, Skill, Extend Claude with skills
+Nodes (5): code:http (curl https://api.anthropic.com/v1/messages/batches \), Example, List, Query Parameters, Returns
 
 ### Community 1341 - "Community 1341"
 Cohesion: 0.33
@@ -7470,16 +7450,16 @@ Cohesion: 0.33
 Nodes (6): code:http (curl https://api.anthropic.com/v1/sessions/$SESSION_ID \), Delete, Example, Header Parameters, Path Parameters, Returns
 
 ### Community 1353 - "Community 1353"
-Cohesion: 0.33
-Nodes (6): Body Parameters, code:http (curl https://api.anthropic.com/v1/sessions \), Create, Example, Header Parameters, Returns
+Cohesion: 0.40
+Nodes (5): code:cli (ant beta:vaults:credentials create \), Create, Example, Parameters, Returns
 
 ### Community 1354 - "Community 1354"
-Cohesion: 0.33
-Nodes (6): code:http (curl https://api.anthropic.com/v1/sessions \), Example, Header Parameters, List, Query Parameters, Returns
+Cohesion: 0.40
+Nodes (5): code:cli (ant beta:vaults:credentials list \), Example, List, Parameters, Returns
 
 ### Community 1355 - "Community 1355"
-Cohesion: 0.33
-Nodes (6): code:http (curl https://api.anthropic.com/v1/sessions/$SESSION_ID \), Example, Header Parameters, Path Parameters, Retrieve, Returns
+Cohesion: 0.40
+Nodes (5): code:cli (ant beta:vaults:credentials retrieve \), Example, Parameters, Retrieve, Returns
 
 ### Community 1356 - "Community 1356"
 Cohesion: 0.33
@@ -7522,8 +7502,8 @@ Cohesion: 0.33
 Nodes (6): code:ruby (require "anthropic"), Example, Header Parameters, Parameters, Returns, Upload
 
 ### Community 1366 - "Community 1366"
-Cohesion: 0.33
-Nodes (6): Example, Header Parameters, List, Path Parameters, Query Parameters, Returns
+Cohesion: 0.40
+Nodes (5): code:cli (ant beta:vaults:credentials update \), Example, Parameters, Returns, Update
 
 ### Community 1367 - "Community 1367"
 Cohesion: 0.33
@@ -7686,14 +7666,14 @@ Cohesion: 0.33
 Nodes (5): code:http (curl https://api.anthropic.com/v1/compliance/apps/chats/gene), Content, Example, Header Parameters, Path Parameters
 
 ### Community 1407 - "Community 1407"
-Cohesion: 0.33
-Nodes (6): Agents, code:go (package main), Create, Example, Parameters, Returns
+Cohesion: 0.08
+Nodes (26): Agents, Archive, code:go (package main), code:go (package main), code:go (package main), code:go (package main), code:go (package main), Create (+18 more)
 
 ### Community 1408 - "Community 1408"
 Cohesion: 0.33
 Nodes (6): Archive, code:go (package main), Credentials, Example, Parameters, Returns
 
-### Community 1409 - "Agent Legibility"
+### Community 1409 - "Community 1409"
 Cohesion: 0.40
 Nodes (6): claude-progress.txt, Git History, Multiple Context Windows, Agent Legibility, Boring Technologies with Stable APIs, Repository-Discoverable Dependencies
 
@@ -7714,8 +7694,8 @@ Cohesion: 0.33
 Nodes (5): code:http (curl https://api.anthropic.com/v1/organizations/invites/$INV), Example, Path Parameters, Retrieve, Returns
 
 ### Community 1414 - "Community 1414"
-Cohesion: 0.33
-Nodes (6): Archive, code:java (package com.anthropic.example;), Credentials, Example, Parameters, Returns
+Cohesion: 0.40
+Nodes (5): code:cli (ant beta:vaults:credentials delete \), Delete, Example, Parameters, Returns
 
 ### Community 1415 - "Community 1415"
 Cohesion: 0.33
@@ -7782,8 +7762,8 @@ Cohesion: 0.33
 Nodes (6): Create User Profile, Create User Profile Enrollment URL, List User Profiles, Retrieve User Profile, Update User Profile, Python Beta User Profiles API
 
 ### Community 1431 - "Community 1431"
-Cohesion: 0.33
-Nodes (6): Archive, code:ruby (require "anthropic"), Credentials, Example, Parameters, Returns
+Cohesion: 0.40
+Nodes (5): code:cli (ant beta:vaults:credentials mcp-oauth-validate \), Example, MCP OAuth Validate, Parameters, Returns
 
 ### Community 1432 - "Community 1432"
 Cohesion: 0.33
@@ -7830,8 +7810,8 @@ Cohesion: 0.33
 Nodes (6): Agents, Archive, code:typescript (import Anthropic from '@anthropic-ai/sdk';), Example, Parameters, Returns
 
 ### Community 1443 - "Community 1443"
-Cohesion: 0.33
-Nodes (6): Archive, code:typescript (import Anthropic from '@anthropic-ai/sdk';), Credentials, Example, Parameters, Returns
+Cohesion: 0.40
+Nodes (5): code:csharp (CredentialDeleteParams parameters = new()), Delete, Example, Parameters, Returns
 
 ### Community 1444 - "Community 1444"
 Cohesion: 0.33
@@ -7883,11 +7863,11 @@ Nodes (5): Authentication, code:bash (npx @modelcontextprotocol/inspector), code
 
 ### Community 1456 - "Community 1456"
 Cohesion: 0.40
-Nodes (5): Body Parameters, code:http (curl https://api.anthropic.com/v1/organizations/workspaces \), Create, Example, Returns
+Nodes (5): code:csharp (CredentialMcpOAuthValidateParams parameters = new()), Example, MCP OAuth Validate, Parameters, Returns
 
 ### Community 1457 - "Community 1457"
 Cohesion: 0.40
-Nodes (5): Example, Header Parameters, Path Parameters, Retrieve, Returns
+Nodes (5): code:csharp (CredentialCreateParams parameters = new()), Create, Example, Parameters, Returns
 
 ### Community 1458 - "Community 1458"
 Cohesion: 0.40
@@ -7931,7 +7911,7 @@ Nodes (5): code:cli (ant beta:agents retrieve \), Example, Parameters, Retrieve,
 
 ### Community 1468 - "Community 1468"
 Cohesion: 0.40
-Nodes (5): code:cli (ant beta:sessions:events list \), Example, List, Parameters, Returns
+Nodes (5): code:csharp (CredentialListParams parameters = new()), Example, List, Parameters, Returns
 
 ### Community 1469 - "Community 1469"
 Cohesion: 0.40
@@ -7991,23 +7971,23 @@ Nodes (5): BetaUserProfileEnrollmentUrl, Create Enrollment URL API, List User Pr
 
 ### Community 1483 - "Community 1483"
 Cohesion: 0.40
-Nodes (5): Batches, code:csharp (BatchCreateParams parameters = new()), Create, Example, Returns
+Nodes (5): code:go (package main), Example, Parameters, Returns, Send
 
 ### Community 1484 - "Community 1484"
 Cohesion: 0.40
-Nodes (5): Cancel, code:csharp (BatchCancelParams parameters = new() { MessageBatchID = "mes), Example, Parameters, Returns
+Nodes (5): code:java (package com.anthropic.example;), Create, Example, Parameters, Returns
 
 ### Community 1485 - "Community 1485"
 Cohesion: 0.40
-Nodes (5): code:csharp (BatchDeleteParams parameters = new() { MessageBatchID = "mes), Delete, Example, Parameters, Returns
+Nodes (5): code:java (package com.anthropic.example;), Example, List, Parameters, Returns
 
 ### Community 1486 - "Community 1486"
 Cohesion: 0.40
-Nodes (5): code:csharp (BatchListParams parameters = new();), Example, List, Parameters, Returns
+Nodes (5): code:java (package com.anthropic.example;), Example, Parameters, Retrieve, Returns
 
 ### Community 1487 - "Community 1487"
 Cohesion: 0.40
-Nodes (5): code:csharp (BatchRetrieveParams parameters = new() { MessageBatchID = "m), Example, Parameters, Retrieve, Returns
+Nodes (5): code:java (package com.anthropic.example;), Example, Parameters, Returns, Update
 
 ### Community 1488 - "Community 1488"
 Cohesion: 0.40
@@ -8195,19 +8175,19 @@ Nodes (4): How it works, Local Model Routing (Experimental), Model routing, Mode
 
 ### Community 1534 - "Community 1534"
 Cohesion: 0.40
-Nodes (5): Archive, code:go (package main), Example, Parameters, Returns
+Nodes (5): code:java (package com.anthropic.example;), Example, List, Parameters, Returns
 
 ### Community 1535 - "Community 1535"
 Cohesion: 0.40
-Nodes (5): code:go (package main), Example, List, Parameters, Returns
+Nodes (5): Cancel, code:python (import os), Example, Parameters, Returns
 
 ### Community 1536 - "Community 1536"
 Cohesion: 0.40
-Nodes (5): code:go (package main), Example, Parameters, Returns, Update
+Nodes (5): code:python (import os), Example, Parameters, Retrieve, Returns
 
 ### Community 1537 - "Community 1537"
 Cohesion: 0.40
-Nodes (5): code:go (package main), Example, Parameters, Retrieve, Returns
+Nodes (5): code:ruby (require "anthropic"), Example, Parameters, Returns, Send
 
 ### Community 1538 - "Community 1538"
 Cohesion: 0.40
@@ -8234,64 +8214,56 @@ Cohesion: 0.40
 Nodes (5): code:go (package main), Example, Parameters, Returns, Update
 
 ### Community 1544 - "Community 1544"
-Cohesion: 0.40
-Nodes (5): Batches, code:go (package main), Create, Example, Returns
+Cohesion: 0.50
+Nodes (3): `ClaudeAgentOptions`, code:python (@dataclass), Handle slow or stalled API responses
 
 ### Community 1545 - "Community 1545"
-Cohesion: 0.40
-Nodes (5): Cancel, code:go (package main), Example, Parameters, Returns
+Cohesion: 0.50
+Nodes (4): code:python ({), code:python ({), code:python ({), Read
 
 ### Community 1546 - "Community 1546"
-Cohesion: 0.40
-Nodes (5): code:go (package main), Delete, Example, Parameters, Returns
+Cohesion: 0.50
+Nodes (4): code:python ({), code:python ({), code:python ({), Grep
 
 ### Community 1547 - "Community 1547"
-Cohesion: 0.40
-Nodes (5): code:go (package main), Example, Parameters, Retrieve, Returns
+Cohesion: 0.50
+Nodes (4): Example, List, Parameters, Returns
 
 ### Community 1548 - "Community 1548"
-Cohesion: 0.40
-Nodes (5): code:go (package main), Example, List, Parameters, Returns
+Cohesion: 0.50
+Nodes (4): code:python (import time), code:python (display_width, display_height = 1024, 768), code:python (import logging), Follow implementation best practices
 
 ### Community 1549 - "Community 1549"
-Cohesion: 0.40
-Nodes (5): code:go (package main), Example, List, Parameters, Returns
+Cohesion: 0.67
+Nodes (3): AskUserQuestion, code:python ({), code:python ({)
 
 ### Community 1550 - "Community 1550"
 Cohesion: 0.40
 Nodes (5): code:java (package com.anthropic.example;), Example, Parameters, Returns, Send
 
 ### Community 1551 - "Community 1551"
-Cohesion: 0.40
-Nodes (5): code:java (package com.anthropic.example;), Example, MCP OAuth Validate, Parameters, Returns
+Cohesion: 0.67
+Nodes (3): code:python ({), code:python ({), NotebookEdit
 
 ### Community 1552 - "Community 1552"
-Cohesion: 0.40
-Nodes (5): code:java (package com.anthropic.example;), Create, Example, Parameters, Returns
+Cohesion: 0.67
+Nodes (3): code:python ({), code:python ({), KillBash
 
 ### Community 1553 - "Community 1553"
-Cohesion: 0.40
-Nodes (5): code:java (package com.anthropic.example;), Delete, Example, Parameters, Returns
+Cohesion: 0.67
+Nodes (3): code:python (class ThinkingConfigAdaptive(TypedDict):), code:python (from claude_agent_sdk import ClaudeAgentOptions, ThinkingCon), `ThinkingConfig`
 
 ### Community 1554 - "Community 1554"
-Cohesion: 0.40
-Nodes (5): code:java (package com.anthropic.example;), Example, List, Parameters, Returns
+Cohesion: 0.67
+Nodes (3): code:python (class SdkPluginConfig(TypedDict):), code:python (plugins = [), `SdkPluginConfig`
 
 ### Community 1555 - "Community 1555"
-Cohesion: 0.40
-Nodes (5): code:java (package com.anthropic.example;), Example, Parameters, Retrieve, Returns
+Cohesion: 1.00
+Nodes (3): CLI Beta Webhooks, Beta API, Beta Webhooks Domain Types
 
 ### Community 1556 - "Community 1556"
-Cohesion: 0.40
-Nodes (5): code:java (package com.anthropic.example;), Example, Parameters, Returns, Update
-
-### Community 1557 - "Community 1557"
-Cohesion: 0.40
-Nodes (5): Cancel, code:java (package com.anthropic.example;), Example, Parameters, Returns
-
-### Community 1558 - "Community 1558"
-Cohesion: 0.40
-Nodes (5): code:java (package com.anthropic.example;), Example, Parameters, Retrieve, Returns
+Cohesion: 0.67
+Nodes (3): code:powershell (wsl --set-version <DistroName> 2), code:bash (claude() {), `Exec format error` on WSL1
 
 ### Community 1559 - "Community 1559"
 Cohesion: 0.40
@@ -8329,26 +8301,6 @@ Nodes (5): code:python (import os), Example, Parameters, Retrieve, Returns
 Cohesion: 0.40
 Nodes (5): code:python (import os), Example, Parameters, Returns, Update
 
-### Community 1568 - "Community 1568"
-Cohesion: 0.40
-Nodes (5): Batches, code:python (import os), Create, Example, Returns
-
-### Community 1569 - "Community 1569"
-Cohesion: 0.40
-Nodes (5): Cancel, code:python (import os), Example, Parameters, Returns
-
-### Community 1570 - "Community 1570"
-Cohesion: 0.40
-Nodes (5): code:python (import os), Delete, Example, Parameters, Returns
-
-### Community 1571 - "Community 1571"
-Cohesion: 0.40
-Nodes (5): code:python (import os), Example, List, Parameters, Returns
-
-### Community 1572 - "Community 1572"
-Cohesion: 0.40
-Nodes (5): code:python (import os), Example, Parameters, Retrieve, Returns
-
 ### Community 1573 - "Community 1573"
 Cohesion: 0.40
 Nodes (5): code:python (import os), Create, Example, Parameters, Returns
@@ -8365,33 +8317,13 @@ Nodes (5): code:python (import os), Example, Parameters, Returns, Update
 Cohesion: 0.40
 Nodes (5): code:python (import os), Example, Parameters, Retrieve, Returns
 
-### Community 1577 - "Harness Engineering Concepts"
+### Community 1577 - "Community 1577"
 Cohesion: 0.40
 Nodes (5): Agent-First Development, Agent Legibility, OpenAI Codex, Harness Engineering, Ralph Wiggum Loop
-
-### Community 1578 - "Community 1578"
-Cohesion: 0.40
-Nodes (5): code:ruby (require "anthropic"), Example, MCP OAuth Validate, Parameters, Returns
-
-### Community 1579 - "Community 1579"
-Cohesion: 0.40
-Nodes (5): code:ruby (require "anthropic"), Create, Example, Parameters, Returns
-
-### Community 1580 - "Community 1580"
-Cohesion: 0.40
-Nodes (5): code:ruby (require "anthropic"), Delete, Example, Parameters, Returns
-
-### Community 1581 - "Community 1581"
-Cohesion: 0.40
-Nodes (5): code:ruby (require "anthropic"), Example, List, Parameters, Returns
 
 ### Community 1582 - "Community 1582"
 Cohesion: 0.40
 Nodes (5): code:ruby (require "anthropic"), Example, Parameters, Retrieve, Returns
-
-### Community 1583 - "Community 1583"
-Cohesion: 0.40
-Nodes (5): code:ruby (require "anthropic"), Example, Parameters, Returns, Update
 
 ### Community 1584 - "Community 1584"
 Cohesion: 0.40
@@ -8412,10 +8344,6 @@ Nodes (5): code:ruby (require "anthropic"), Example, List, Parameters, Returns
 ### Community 1588 - "Community 1588"
 Cohesion: 0.40
 Nodes (5): code:ruby (require "anthropic"), Example, Parameters, Retrieve, Returns
-
-### Community 1589 - "Community 1589"
-Cohesion: 0.40
-Nodes (5): code:ruby (require "anthropic"), Example, List, Parameters, Returns
 
 ### Community 1590 - "Community 1590"
 Cohesion: 0.40
@@ -8513,30 +8441,6 @@ Nodes (5): code:typescript (import Anthropic from '@anthropic-ai/sdk';), Example
 Cohesion: 0.40
 Nodes (5): code:typescript (import Anthropic from '@anthropic-ai/sdk';), Example, Parameters, Retrieve, Returns
 
-### Community 1614 - "Community 1614"
-Cohesion: 0.40
-Nodes (5): code:typescript (import Anthropic from '@anthropic-ai/sdk';), Example, MCP OAuth Validate, Parameters, Returns
-
-### Community 1615 - "Community 1615"
-Cohesion: 0.40
-Nodes (5): code:typescript (import Anthropic from '@anthropic-ai/sdk';), Create, Example, Parameters, Returns
-
-### Community 1616 - "Community 1616"
-Cohesion: 0.40
-Nodes (5): code:typescript (import Anthropic from '@anthropic-ai/sdk';), Delete, Example, Parameters, Returns
-
-### Community 1617 - "Community 1617"
-Cohesion: 0.40
-Nodes (5): code:typescript (import Anthropic from '@anthropic-ai/sdk';), Example, List, Parameters, Returns
-
-### Community 1618 - "Community 1618"
-Cohesion: 0.40
-Nodes (5): code:typescript (import Anthropic from '@anthropic-ai/sdk';), Example, Parameters, Retrieve, Returns
-
-### Community 1619 - "Community 1619"
-Cohesion: 0.40
-Nodes (5): code:typescript (import Anthropic from '@anthropic-ai/sdk';), Example, Parameters, Returns, Update
-
 ### Community 1620 - "Community 1620"
 Cohesion: 0.40
 Nodes (5): Batches, code:typescript (import Anthropic from '@anthropic-ai/sdk';), Create, Example, Returns
@@ -8620,42 +8524,6 @@ Nodes (4): Beta Raw Message Start Event, code:json ([{"type": "text", "text": "H
 ### Community 1640 - "Community 1640"
 Cohesion: 0.50
 Nodes (4): Beta Raw Message Stream Event, code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([), code:json ([{"type": "text", "text": "B)"}])
-
-### Community 1641 - "Community 1641"
-Cohesion: 0.50
-Nodes (4): Archive, Example, Parameters, Returns
-
-### Community 1642 - "Community 1642"
-Cohesion: 0.50
-Nodes (4): Example, List, Parameters, Returns
-
-### Community 1643 - "Community 1643"
-Cohesion: 0.50
-Nodes (4): Example, List, Parameters, Returns
-
-### Community 1644 - "Community 1644"
-Cohesion: 0.50
-Nodes (4): Example, List, Parameters, Returns
-
-### Community 1645 - "Community 1645"
-Cohesion: 0.50
-Nodes (4): Example, Parameters, Retrieve, Returns
-
-### Community 1646 - "Community 1646"
-Cohesion: 0.50
-Nodes (4): Archive, Example, Parameters, Returns
-
-### Community 1647 - "Community 1647"
-Cohesion: 0.50
-Nodes (4): Example, Parameters, Retrieve, Returns
-
-### Community 1648 - "Community 1648"
-Cohesion: 0.50
-Nodes (4): Example, Parameters, Retrieve, Returns
-
-### Community 1649 - "Community 1649"
-Cohesion: 0.50
-Nodes (4): Example, Parameters, Returns, Update
 
 ### Community 1650 - "Community 1650"
 Cohesion: 0.50
@@ -9217,14 +9085,6 @@ Nodes (4): fetchedAt, status, statusReason, claude/code.claude.com/docs/en/ultra
 Cohesion: 0.50
 Nodes (4): fetchedAt, status, statusReason, claude/code.claude.com/docs/en/vs-code.md
 
-### Community 1790 - "Community 1790"
-Cohesion: 0.50
-Nodes (4): Beta Message Batch Result, code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([), code:json ([{"type": "text", "text": "B)"}])
-
-### Community 1791 - "Community 1791"
-Cohesion: 0.50
-Nodes (4): Beta Message Batch Succeeded Result, code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([), code:json ([{"type": "text", "text": "B)"}])
-
 ### Community 1792 - "Community 1792"
 Cohesion: 0.50
 Nodes (4): Beta Raw Message Start Event, code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([), code:json ([{"type": "text", "text": "B)"}])
@@ -9309,10 +9169,6 @@ Nodes (4): code:json ({), code:json ({), Notification, Notification input
 Cohesion: 0.50
 Nodes (4): code:bash (export MAX_MCP_OUTPUT_TOKENS=50000), code:json ({), MCP output limits and warnings, Raise the limit for a specific tool
 
-### Community 1813 - "Community 1813"
-Cohesion: 0.50
-Nodes (4): Bash, Compound commands, Process wrappers, Read-only commands
-
 ### Community 1814 - "Community 1814"
 Cohesion: 0.50
 Nodes (4): code:bash (ln -s ../../shared-plugin/skills/foo ./skills/foo), Path traversal limitations, Plugin caching and file resolution, Share files within a marketplace with symlinks
@@ -9385,10 +9241,6 @@ Nodes (4): code:bash (curl -sI https://downloads.claude.ai/claude-code-releases/
 Cohesion: 0.50
 Nodes (4): code:text (Error loading shared library libstdc++.so.6: No such file or), code:bash (ldd --version 2>&1 | head -1), code:bash (apk add libgcc libstdc++ ripgrep), Linux musl or glibc binary mismatch
 
-### Community 1832 - "Community 1832"
-Cohesion: 0.50
-Nodes (4): code:bash (export NVM_DIR="$HOME/.nvm"), code:bash (source ~/.nvm/nvm.sh), code:bash (export PATH="$HOME/.nvm/versions/node/$(node -v)/bin:$PATH"), npm install errors in WSL
-
 ### Community 1833 - "Community 1833"
 Cohesion: 0.50
 Nodes (4): Choose where Claude lives, Customize your workflow, Run multiple conversations, Switch to terminal mode
@@ -9400,14 +9252,6 @@ Nodes (4): C# SDK Beta API Doc, C# SDK Beta Environments Doc, C# SDK Messages AP
 ### Community 1835 - "Community 1835"
 Cohesion: 0.50
 Nodes (3): configurations, inputs, version
-
-### Community 1836 - "Community 1836"
-Cohesion: 0.50
-Nodes (4): Beta Message Batch Result, code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([), code:json ([{"type": "text", "text": "B)"}])
-
-### Community 1837 - "Community 1837"
-Cohesion: 0.50
-Nodes (4): Beta Message Batch Succeeded Result, code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([), code:json ([{"type": "text", "text": "B)"}])
 
 ### Community 1838 - "Community 1838"
 Cohesion: 0.50
@@ -9433,7 +9277,7 @@ Nodes (4): code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json 
 Cohesion: 0.50
 Nodes (4): code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([), code:json ([{"type": "text", "text": "B)"}]), Raw Message Stream Event
 
-### Community 1844 - "Cloudflare Challenge Page"
+### Community 1844 - "Community 1844"
 Cohesion: 0.50
 Nodes (4): OpenAI Harness Engineering Cloudflare Challenge Page, Cloudflare Managed Challenge, JavaScript and Cookies Requirement, OpenAI Logo SVG
 
@@ -9461,10 +9305,6 @@ Nodes (4): code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json 
 Cohesion: 0.50
 Nodes (4): code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([), code:json ([{"type": "text", "text": "B)"}]), Raw Message Stream Event
 
-### Community 1851 - "Community 1851"
-Cohesion: 0.83
-Nodes (4): Session Thread Events Overview, List Session Thread Events, Stream Session Thread Events, Session Thread Event
-
 ### Community 1852 - "Community 1852"
 Cohesion: 0.50
 Nodes (3): Other session operations, Session statuses, Start a session
@@ -9472,14 +9312,6 @@ Nodes (3): Other session operations, Session statuses, Start a session
 ### Community 1853 - "Community 1853"
 Cohesion: 0.50
 Nodes (4): GitHub CLI, Issue label cache, jq, PR triage script
-
-### Community 1854 - "Community 1854"
-Cohesion: 0.50
-Nodes (4): Beta Message Batch Result, code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([), code:json ([{"type": "text", "text": "B)"}])
-
-### Community 1855 - "Community 1855"
-Cohesion: 0.50
-Nodes (4): Beta Message Batch Succeeded Result, code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([), code:json ([{"type": "text", "text": "B)"}])
 
 ### Community 1856 - "Community 1856"
 Cohesion: 0.50
@@ -9505,8 +9337,8 @@ Nodes (4): code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json 
 Cohesion: 0.50
 Nodes (4): code:json ([{"type": "text", "text": "Hi, I'm Claude."}]), code:json ([), code:json ([{"type": "text", "text": "B)"}]), Raw Message Stream Event
 
-### Community 1862 - "Harness Engineering Details"
-Cohesion: 0.50
+### Community 1862 - "Community 1862"
+Cohesion: 0.40
 Nodes (3): Architectural Details, Harness engineering: leveraging Codex in an agent-first world, Key Technical Concepts & Strategies
 
 ### Community 1863 - "Community 1863"
@@ -9561,10 +9393,6 @@ Nodes (4): Async usage, code:python (import os), code:python (import os), Using 
 Cohesion: 0.50
 Nodes (4): code:typescript (import Anthropic from "@anthropic-ai/sdk";), code:typescript (import { ToolError } from "@anthropic-ai/sdk/lib/tools/BetaR), Tool errors, Tool helpers
 
-### Community 1876 - "Community 1876"
-Cohesion: 0.50
-Nodes (4): Example, List, Parameters, Returns
-
 ### Community 1877 - "Community 1877"
 Cohesion: 0.50
 Nodes (4): Example, List, Parameters, Returns
@@ -9580,10 +9408,6 @@ Nodes (4): Example, List, Parameters, Returns
 ### Community 1880 - "Community 1880"
 Cohesion: 0.50
 Nodes (3): Advanced: Chain safeguards, code:json ({), Mitigate jailbreaks and prompt injections
-
-### Community 1881 - "Community 1881"
-Cohesion: 0.50
-Nodes (4): code:json ({), code:json ({), code:json ({), Handle errors
 
 ### Community 1882 - "Community 1882"
 Cohesion: 0.50
@@ -9697,7 +9521,7 @@ Nodes (3): code:dockerfile (WORKDIR /tmp), code:bash (docker build --memory=4g .
 Cohesion: 0.67
 Nodes (3): Install plugins, Manage marketplaces, Manage plugins
 
-### Community 1916 - "Progressive Disclosure (AGENTS.md)"
+### Community 1916 - "Community 1916"
 Cohesion: 1.00
 Nodes (3): AGENTS.md Table of Contents, docs/ System of Record, Progressive Disclosure
 
@@ -9721,7 +9545,7 @@ Nodes (3): Memories API, Memory Stores API, Memory Stores
 Cohesion: 1.00
 Nodes (3): ModelCapabilities, ModelInfo, Java Models API
 
-### Community 1923 - "Layered Architecture Invariants"
+### Community 1923 - "Community 1923"
 Cohesion: 0.67
 Nodes (3): Automated Garbage Collection, Mechanical Invariants, Rigid Layered Domain Architecture
 
@@ -9866,9 +9690,9 @@ Nodes (3): Vault Credentials API, Vaults API, Vaults
   raw/harness-engineering.html · relation: references
 
 ## Knowledge Gaps
-- **20078 isolated node(s):** `seeds`, `lastUpdate`, `result`, `uniqueUrls`, `success` (+20073 more)
+- **20097 isolated node(s):** `Key Technical Concepts & Strategies`, `Architectural Details`, `ASDLC.io | The Agentic Software Development Life Cycle Framework`, `AddyOsmani.com - Agent Skills`, `code:block1 (Agent = Model + Harness)` (+20092 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **120 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **134 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
